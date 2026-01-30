@@ -1,0 +1,3302 @@
+[
+  {
+    "text": "Adedçe mahdud olan: Midhat ve Mısırlı Prens Mustafa Fadıl Paşalar gibi siyasi; Namık Kemal ve Ziya Paşa gibi asarı edebiye ve fikriyesi hiç bir vakit unutulamıyacak şair ve edipler; ateşin eli kalem tutar Ali Şefkati, Nuri ve Şinasi Beyler gibi ehli kalem ve sonunda saraya ve membai istipdad ve fesad olan Lâneye hücumunda şehid olan Ali Suavi gibi fedakar gençler hareketinin birinci devrinin fikri ika edenlerden idiler.",
+      "entities": [
+      {
+        "target": "Midhat",
+        "author_related": false,
+        "start": 20,
+        "end": 26,
+        "sentiment": 2,
+        "context": "ve Mısırlı Prens Mustafa Fadıl Paşalar gibi siyasi; Namık Kemal ve Zİya Paşa gibi asarı edebiye ve fikriyesi hiç bir vakit unudulamıyacak şair ve edipler; ..."
+      },
+      {
+        "target": "Prens Mustafa Fadıl Paşa",
+        "author_related": false,
+        "start": 38,
+        "end": 62,
+        "sentiment": 2,
+        "context": " gibi siyasi; Namık Kemal ve Zİya Paşa gibi asarı edebiye ve fikriyesi hiç bir vakit unudulamıyacak şair ve edipler; ateşin eli kalem tutar Ali Şefkati, Nuri ve ..."
+      },
+      {
+        "target": "Namık Kemal",
+        "author_related": false,
+        "start": 79,
+        "end": 90,
+        "sentiment": 2,
+        "context": " ve Zİya Paşa gibi asarı edebiye ve fikriyesi hiç bir vakit unudulamıyacak şair ve edipler; ateşin eli kalem tutar Ali Şefkati, Nuri ve Şinasi Beyler gibi ..."
+      },
+      {
+        "target": "Ziya Paşa",
+        "author_related": false,
+        "start": 94,
+        "end": 103,
+        "sentiment": 2,
+        "context": " gibi asarı edebiye ve fikriyesi hiç bir vakit unudulamıyacak şair ve edipler; ateşin eli kalem tutar Ali Şefkati, Nuri ve Şinasi Beyler gibi ..."
+      },
+      {
+        "target": "Ali Şefkati",
+        "author_related": false,
+        "start": 205,
+        "end": 216,
+        "sentiment": 2,
+        "context": ", Nuri ve Şinasi Beyler gibi ehli kalem ve sonunda saraya ve membai istipdad ve fesad olan Lâneye hücumunda şehid olan Ali Suavi gibi fedakar gençler hareketinin birinci devrinin fikri ika edenlerden idiler."
+      },
+      {
+        "target": "Nuri",
+        "author_related": false,
+        "start": 218,
+        "end": 222,
+        "sentiment": 2,
+        "context": " ve Şinasi Beyler gibi ehli kalem ve sonunda saraya ve membai istipdad ve fesad olan Lâneye hücumunda şehid olan Ali Suavi gibi fedakar gençler hareketinin birinci devrinin fikri ika edenlerden idiler."
+      },
+      {
+        "target": "Şinasi Bey",
+        "author_related": false,
+        "start": 226,
+        "end": 236,
+        "sentiment": 2,
+        "context": "ler gibi ehli kalem ve sonunda saraya ve membai istipdad ve fesad olan Lâneye hücumunda şehid olan Ali Suavi gibi fedakar gençler hareketinin birinci devrinin fikri ika edenlerden idiler."
+      },
+      {
+        "target": "Ali Suavi",
+        "author_related": false,
+        "start": 335,
+        "end": 344,
+        "sentiment": 2,
+        "context": " gibi fedakar gençler hareketinin birinci devrinin fikri ika edenlerden idiler."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 4,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 4.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Namık Kemalin şiir ve eserlerini, Ali Şefkatinin ve sair türk ediplerinin gazetelerini elden ele dağıtarak mektepliler, kalemlerde müstahdem memurin ve bunların vasıtasile ehli kalem ve ahali arasına sokulan, okuyanlar çoğaldı. Tam bu sırada idi ki, ikinci ve esaslı genç türklerin cemiyeti hafiyesi teşekkül etti.",
+      "entities": [
+      {
+        "target": "Namık Kemal",
+        "author_related": false,
+        "start": 0,
+        "end": 11,
+        "sentiment": 1,
+        "context": "in şiir ve eserlerini, Ali Şefkatinin ve sair türk ediplerinin gazetelerini elden ele dağıtarak mektepliler, kalemlerde müstahdem memurin ve bunların vasıtasile ehli kalem ve ahali arasına sokulan, okuyanlar çoğaldı. Tam bu sırada idi ki, ikinci ve esaslı genç türklerin cemiyeti hafiyesi teşekkül etti."
+      },
+      {
+        "target": "Ali Şefkati",
+        "author_related": false,
+        "start": 34,
+        "end": 45,
+        "sentiment": 1,
+        "context": "nin ve sair türk ediplerinin gazetelerini elden ele dağıtarak mektepliler, kalemlerde müstahdem memurin ve bunların vasıtasile ehli kalem ve ahali arasına sokulan, okuyanlar çoğaldı. Tam bu sırada idi ki, ikinci ve esaslı genç türklerin cemiyeti hafiyesi teşekkül etti."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 4,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 4.",
+      "notes": "Türkçe"
+    }
+  },
+    {
+    "text": "Pederim, Murad bin Mustafa'nın ecdadı Arnavudluğun Mat kazasından olup, Kara Mehmed Paşa zamanında oradan gelerek, Manastır vilâyetinin Ohri kazasına tabi İstruga nahiyesine inmiş;Türkiye'nin gaza devirlerinde âilemizden pek çoğu serhadlerde hizmet ederek harp meydanlarında vatan için fedayi can etmişlerdir.",
+      "entities": [
+        {
+        "target": "Pederim",
+        "author_related": true,
+        "start": 0,
+        "end": 7,
+        "sentiment": 1,
+        "context": "Murad bin Mustafanın ecdadı Arnavudluğun Mat kazasından olup, Kara Mehmed Paşa zamanında oradan gelerek, Manastır vilâyetinin Ohri kazasına tabi İstruga nahiyesine inmiş;Türkiye'nin gaza devirlerinde âilemizden pek çoğu serhadlerde hizmet ederek harp meydanlarında vatan için fedayi can etmişlerdir."
+      },
+      {
+        "target": "Murad bin Mustafa",
+        "author_related": false,
+        "start": 9,
+        "end": 26,
+        "sentiment": 1,
+        "context": "'nın ecdadı Arnavudluğun Mat kazasından olup, Kara Mehmed Paşa zamanında oradan gelerek, Manastır vilâyetinin Ohri kazasına tabi İstruga nahiyesine inmiş;Türkiye'nin gaza devirlerinde âilemizden pek çoğu serhadlerde hizmet ederek harp meydanlarında vatan için fedayi can etmişlerdir."
+      },
+      {
+        "target": "Kara Mehmed Paşa",
+        "author_related": false,
+        "start": 72,
+        "end": 88,
+        "sentiment": 1,
+        "context": " zamanında oradan gelerek, Manastır vilâyetinin Ohri kazasına tabi İstruga nahiyesine inmiş;Türkiye'nin gaza devirlerinde âilemizden pek çoğu serhadlerde hizmet ederek harp meydanlarında vatan için fedayi can etmişlerdir."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 7,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 7.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Semtin eğlendiricisi meşhur hemşehrilerden armonikçi ve sucu Hayri'yi buldum.",
+      "entities": [
+      {
+        "target": "Hayri",
+        "author_related": true,
+        "start": 61,
+        "end": 66,
+        "sentiment": 1,
+        "context": "'yi buldum."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 9,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 9.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Tahsil merakile geldiğimi ve kime müraceat etmekliğim lazım olduğunu sorduğumda, beni o kahvelere gelen Tiranlı İsmail Bey Topdaniye ve tabakatülarz muallimi ve müderris İbrahim Paşanın köylüsü Haydar Bloşmi Beyle görüştürdü.",
+      "entities": [
+      {
+        "target": "Tiranlı İsmail Bey",
+        "author_related": true,
+        "start": 104,
+        "end": 122,
+        "sentiment": 1,
+        "context": " Topdaniye ve tabakatülarz muallimi ve müderris İbrahim Paşanın köylüsü Haydar Bloşmi Beyle görüştürdü."
+      },
+      {
+        "target": "Haydar Bloşmi Bey",
+        "author_related": true,
+        "start": 194,
+        "end": 211,
+        "sentiment": 1,
+        "context": "le görüştürdü."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 9,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 9.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Bu iki zat beni, babamın zaten dostu olan İbrahim Paşa'ya götürdüler. Hüsnü kabul etti ve mülkiye mektebi tıbbiyesi müdiri miralay Dr Hüseyin Bey'e gönderdi.",
+      "entities": [
+      {
+        "target": "İbrahim Paşa",
+        "author_related": true,
+        "start": 42,
+        "end": 54,
+        "sentiment": 1,
+        "context": "ya götürdüler. Hüsnü kabul etti ve mülkiye mektebi tıbbiyesi müdiri miralay Dr Hüseyin Beye gönderdi."
+      },
+      {
+        "target": "Dr Hüseyin Bey",
+        "author_related": true,
+        "start": 131,
+        "end": 145,
+        "sentiment": 1,
+        "context": "e gönderdi."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 9.10,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 9-10.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Zaten sınıfımda altı mermerli askeri eczacılarından kolağası Nikolay efendinin oğlu Xenefon vardı. Çapkın ve Çalışmaz taifesinden olduğu için, pederi, onların evinde yatmamı ve damı da vererek çocuğunu iyi yola sevk etmemi rica etti.",
+      "entities": [
+      {
+        "target": "Nikolay Efendi",
+        "author_related": true,
+        "start": 61,
+        "end": 75,
+        "sentiment": 1,
+        "context": "nin oğlu Xenefon vardı. Çapkın ve Çalışmaz taifesinden olduğu için, pederi, onların evinde yatmamı ve damı da vererek çocuğunu iyi yola sevk etmemi rica etti."
+      },
+      {
+        "target": "Xenefon",
+        "author_related": true,
+        "start": 84,
+        "end": 91,
+        "sentiment": 0,
+        "context": " vardı. Çapkın ve Çalışmaz taifesinden olduğu için, pederi, onların evinde yatmamı ve damı da vererek çocuğunu iyi yola sevk etmemi rica etti."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 10,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 10.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Muahharan amca zadem Şerif geldi, misafir bulunduğum evden çıktım. Refiklarımdan Hayrebollu Said Mehmed efendi ve biraderim Şerifle Çenberlitaşta Emin paşa hanında bir oda kiraladık.",
+      "entities": [
+      {
+        "target": "Şerif",
+        "author_related": true,
+        "start": 21,
+        "end": 26,
+        "sentiment": 1,
+        "context": " geldi, misafir bulunduğum evden çıktım. Refiklarımdan Hayrebollu Said Mehmed efendi ve biraderim Şerifle Çenberlitaşta Emin paşa hanında bir oda kiraladık."
+      },
+      {
+        "target": "Hayrebollu Said Mehmed efendi",
+        "author_related": true,
+        "start": 81,
+        "end": 110,
+        "sentiment": 1,
+        "context": " ve biraderim Şerifle Çenberlitaşta Emin paşa hanında bir oda kiraladık."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 10,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 10.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "herkesin derdinin dinleyen meşhur Nazır Marku Paşaya derdimi anlattım.",
+      "entities": [
+      {
+        "target": "Nazır Marku Paşa",
+        "author_related": true,
+        "start": 34,
+        "end": 50,
+        "sentiment": 1,
+        "context": "ya derdimi anlattım."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 10,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 10.",
+      "notes": "Türkçe"
+    }
+  },
+    {
+    "text": "İstidamı umum askeri mektepler nazırı Zekki Paşaya gidip verdim.",
+      "entities": [
+      {
+        "target": "Zekki Paşa",
+        "author_related": true,
+        "start": 38,
+        "end": 48,
+        "sentiment": 1,
+        "context": "ya gidip verdim."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 10.11,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 10-11.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Taşradan gelen efendilerle, ezcümle: Diyarbakırlı İshak Sükuti, Ziya, Edhem ve Cevdet Osman, İstanbullu Şerfeddin Magmumi, arnaud Rıza, Selanikli Ahmed Bahtiyar, Cihangirli Adil ve sonraları inkılâpta büyük hizmetlerde bulunan askeri idadisi talebelerinden bazıları ile görüşür, sofu meşreb ve muteassıp güruhu ile sünnilik ve aleviliğe dair bahseder ve boşu boşuna birbirimizi kandırmağa çalışırdık.",
+      "entities": [
+      {
+        "target": "Diyarbakırlı İshak Sükuti",
+        "author_related": true,
+        "start": 37,
+        "end": 62,
+        "sentiment": 1,
+        "context": ", Ziya, Edhem ve Cevdet Osman, İstanbullu Şerfeddin Magmumi, arnaud Rıza, Selanikli Ahmed Bahtiyar, Cihangirli Adil ve sonraları inkılâpta büyük hizmetlerde bulunan askeri idadisi talebelerinden bazıları ile görüşür, ..."
+      },
+       {
+        "target": "Ziya",
+        "author_related": true,
+        "start": 64,
+        "end": 68,
+        "sentiment": 1,
+        "context": " Edhem ve Cevdet Osman, İstanbullu Şerfeddin Magmumi, arnaud Rıza, Selanikli Ahmed Bahtiyar, Cihangirli Adil ve sonraları inkılâpta büyük hizmetlerde bulunan askeri idadisi talebelerinden bazıları ile görüşür, ..."
+      },
+       {
+        "target": "Edhem",
+        "author_related": true,
+        "start": 70,
+        "end": 75,
+        "sentiment": 1,
+        "context": " ve Cevdet Osman, İstanbullu Şerfeddin Magmumi, arnaud Rıza, Selanikli Ahmed Bahtiyar, Cihangirli Adil ve sonraları inkılâpta büyük hizmetlerde bulunan askeri idadisi talebelerinden bazıları ile görüşür, ..."
+      },
+       {
+        "target": "Cevdet Osman",
+        "author_related": true,
+        "start": 79,
+        "end": 91,
+        "sentiment": 1,
+        "context": ", İstanbullu Şerfeddin Magmumi, arnaud Rıza, Selanikli Ahmed Bahtiyar, Cihangirli Adil ve sonraları inkılâpta büyük hizmetlerde bulunan askeri idadisi talebelerinden bazıları ile görüşür, sofu meşreb ve muteassıp güruhu ile sünnilik ve aleviliğe dair bahseder ve boşu boşuna birbirimizi kandırmağa çalışırdık."
+      },
+       {
+        "target": "Şerfeddin Magmumi",
+        "author_related": true,
+        "start": 104,
+        "end": 121,
+        "sentiment": 1,
+        "context": ", arnaud Rıza, Selanikli Ahmed Bahtiyar, Cihangirli Adil ve sonraları inkılâpta büyük hizmetlerde bulunan askeri idadisi talebelerinden bazıları ile görüşür, sofu meşreb ve muteassıp güruhu ile sünnilik ve aleviliğe dair bahseder ve boşu boşuna birbirimizi kandırmağa çalışırdık."
+      },
+       {
+        "target": "arnaud Rıza",
+        "author_related": true,
+        "start": 123,
+        "end": 134,
+        "sentiment": 1,
+        "context": ", Selanikli Ahmed Bahtiyar, Cihangirli Adil ve sonraları inkılâpta büyük hizmetlerde bulunan askeri idadisi talebelerinden bazıları ile görüşür, sofu meşreb ve muteassıp güruhu ile sünnilik ve aleviliğe dair bahseder ve boşu boşuna birbirimizi kandırmağa çalışırdık."
+      },
+       {
+        "target": "Ahmed Bahtiyar",
+        "author_related": true,
+        "start": 146,
+        "end": 160,
+        "sentiment": 1,
+        "context": ", Cihangirli Adil ve sonraları inkılâpta büyük hizmetlerde bulunan askeri idadisi talebelerinden bazıları ile görüşür, sofu meşreb ve muteassıp güruhu ile sünnilik ve aleviliğe dair bahseder ve boşu boşuna birbirimizi kandırmağa çalışırdık."
+      },
+      {
+        "target": "Cihangirli Adil",
+        "author_related": true,
+        "start": 162,
+        "end": 177,
+        "sentiment": 1,
+        "context": " ve sonraları inkılâpta büyük hizmetlerde bulunan askeri idadisi talebelerinden bazıları ile görüşür, sofu meşreb ve muteassıp güruhu ile sünnilik ve aleviliğe dair bahseder ve boşu boşuna birbirimizi kandırmağa çalışırdık."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 11,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 11.",
+      "notes": "Türkçe"
+    }
+  },
+    {
+    "text": "Bir ders esnasında dışarıdan getirdiğim el yazılı Namık Kema Beyin Rüyasını okurken, İshak Sükuti arkamdan görmüş, teneffüshaneye çıktığımız zaman, benimle dargın olmasına rağmen: Aman kardemiş İbrahim Edhem, beni affet, seni iyi tanıyamamamışım. Kemal Beyin Rüyasını bir akşam için bana da ver okuyayım dedi. İste o günden itibaren çok iyi arkadaş ve dost olduk.",
+      "entities": [
+      {
+        "target": "İshak Sükuti",
+        "author_related": true,
+        "start": 85,
+        "end": 97,
+        "sentiment": 2,
+        "context": " arkamdan görmüş, teneffüshaneye çıktığımız zaman, benimle dargın olmasına rağmen: Aman kardemiş İbrahim Edhem, beni affet, seni iyi tanıyamamamışım. Kemal Beyin Rüyasını bir akşam için bana da ver okuyayım dedi. İste o günden itibaren çok iyi arkadaş ve dost olduk."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 11,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 11.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "İshak Sükuti bana Diyarbakırlı şair Hamii Amidinin eşarını ve sair Mesopotamya ve Şarki Anadolulu zevatın asari edebiyesini verir, ben de Kemal Beyin, Ziya Paşanın Rumeli üdebasına ve bektaşilere ve mevlevilere aid sırf türkçe yazılmış gazelleri, ilahileri, nefesleri ve o sıralarda ecnebi postalarile Londradan gelen acem ahrarının neşr ettikleri gazeteleri, Ali Şefkatinin eserlerini veriri ve emin olduğumuz talebeye gizlice okuturduk.",
+      "entities": [
+      {
+        "target": "İshak Sükuti",
+        "author_related": true,
+        "start": 0,
+        "end": 12,
+        "sentiment": 1,
+        "context": " bana Diyarbakırlı şair Hamii Amidinin eşarını ve sair Mesopotamya ve Şarki Anadolulu zevatın asari edebiyesini verir, ben de Kemal Beyin, Ziya Paşanın Rumeli üdebasına ve ..."
+      },
+      {
+        "target": "Hamii Amidi",
+        "author_related": false,
+        "start": 36,
+        "end": 47,
+        "sentiment": 1,
+        "context": "nin eşarını ve sair Mesopotamya ve Şarki Anadolulu zevatın asari edebiyesini verir, ben de Kemal Beyin, Ziya Paşanın Rumeli üdebasına ve bektaşilere ve mevlevilere ..."
+      },
+      {
+        "target": "Kemal Bey",
+        "author_related": false,
+        "start": 138,
+        "end": 147,
+        "sentiment": 1,
+        "context": "in, Ziya Paşanın Rumeli üdebasına ve bektaşilere ve mevlevilere aid sırf türkçe yazılmış gazelleri, ilahileri, nefesleri ve o sıralarda ecnebi postalarile ..."
+      },
+      {
+        "target": "Ziya Paşa",
+        "author_related": false,
+        "start": 151,
+        "end": 160,
+        "sentiment": 1,
+        "context": "nın Rumeli üdebasına ve bektaşilere ve mevlevilere aid sırf türkçe yazılmış gazelleri, ilahileri, nefesleri ve ..."
+      },
+      {
+        "target": "Ali Şefkati",
+        "author_related": false,
+        "start": 360,
+        "end": 371,
+        "sentiment": 1,
+        "context": "nin eserlerini veriri ve emin olduğumuz talebeye gizlice okuturduk."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 11.12,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 11-12.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Sınıfın birincisi Trabzonlu Abdulkerim Sebati, ikincisi olan ben, şiddetli tazyik altına alındık.",
+      "entities": [
+      {
+        "target": "Abdulkerim Sebati",
+        "author_related": true,
+        "start": 28,
+        "end": 45,
+        "sentiment": 1,
+        "context": ", ikincisi olan ben, şiddetli tazyik altına alındık."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 12,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 12.",
+      "notes": "Türkçe"
+    }
+  },
+    {
+    "text": "Abdülkerim Sebati, köşkün ortasındaki havza lambur lumbur yuvarlandı. Nevbetçilere seslendim: yabancı değiliz, biz de askeriz diye karanlıkta anlattım.",
+      "entities": [
+      {
+        "target": "Abdülkerim Sebati",
+        "author_related": true,
+        "start": 0,
+        "end": 17,
+        "sentiment": 1,
+        "context": ", köşkün ortasındaki havza lambur lumbur yuvarlandı. Nevbetçilere seslendim: yabancı değiliz, biz de askeriz diye karanlıkta anlattım."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 13,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 13.",
+      "notes": "Türkçe"
+    }
+  },
+      {
+    "text": "Bu firar kararından maksadımız mekatibi askeriye nazırı Zekki Paşaya müraceat ederek affımızı ve mektebe giderek tahsilimize devamımızı dilemekti.",
+      "entities": [
+      {
+        "target": "Zekki Paşa",
+        "author_related": true,
+        "start": 56,
+        "end": 66,
+        "sentiment": 1,
+        "context": "ya müraceat ederek affımızı ve mektebe giderek tahsilimize devamımızı dilemekti."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 13,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 13.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Filhakika Zekki Paşa istibdade alet olmakla beraber, ... talebe hakkında himayekar davranırdı.",
+      "entities": [
+      {
+        "target": "Zekki Paşa",
+        "author_related": true,
+        "start": 10,
+        "end": 20,
+        "sentiment": 0,
+        "context": " istibdade alet olmakla beraber, çalışkan ve uslu talebe hakkında himayekar davranırdı."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 14,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 14.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Umum talebe tarafından ıbbiyenin de sair ecnebi fakültelere benzemesi ve ıslahı için tanzim ettiğimiz layiha, müdiriyet ve nezaretçe kabul edilmiyordu. İdarei dahiliyeye müdahale iddiasile müdiri umumimiz Miralay Namık tarafından tazyikler başladı.",
+      "entities": [
+      {
+        "target": "Miralay Namık",
+        "author_related": true,
+        "start": 205,
+        "end": 218,
+        "sentiment": 0,
+        "context": " tarafından tazyikler başladı."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 15,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 15.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Bundan sonra faka basmamamk, biran evvel mektebi ikmal ve kurtulmak için kendime güvenerek iki sınıfın imtihanını bir senede verdim. Benden cesaret alan Cihangirli Adil dahi benim gibi yaptı.",
+      "entities": [
+      {
+        "target": "Cihangirli Adil",
+        "author_related": true,
+        "start": 153,
+        "end": 168,
+        "sentiment": 1,
+        "context": " dahi benim gibi yaptı."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 15,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 15.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Siyasete aid risaleler ve taşrada bulabildiğim çıkan gazeteleri İshak Sükuti, Çerkes Mehmed Reşid, Abdullah Cevdet, İzmirli Hikmet, Selanikli Ahmet Bahtiyar, Trabzonlu Kerim Sebati, İstanbullu Necmeddin Arif ve Şerfeddin Magmumi ve kendilerine inanım olan daha bir çok arkadaşlara verir okudurdum.",
+      "entities": [
+      {
+        "target": "İshak Sükuti",
+        "author_related": true,
+        "start": 64,
+        "end": 76,
+        "sentiment": 1,
+        "context": ", Çerkes Mehmed Reşid, Abdullah Cevdet, İzmirli Hikmet, Selanikli Ahmet Bahtiyar, Trabzonlu Kerim Sebati, İstanbullu Necmeddin Arif ve Şerfeddin Magmumi ve kendilerine inanım olan daha bir çok arkadaşlara verir okudurdum."
+      },
+      {
+        "target": "Çerkes Mehmed Reşid",
+        "author_related": true,
+        "start": 78,
+        "end": 97,
+        "sentiment": 1,
+        "context": ", Abdullah Cevdet, İzmirli Hikmet, Selanikli Ahmet Bahtiyar, Trabzonlu Kerim Sebati, İstanbullu Necmeddin Arif ve Şerfeddin Magmumi ve kendilerine inanım olan daha bir çok arkadaşlara verir okudurdum."
+      },
+      {
+        "target": "Abdullah Cevdet",
+        "author_related": true,
+        "start": 99,
+        "end": 114,
+        "sentiment": 1,
+        "context": ", İzmirli Hikmet, Selanikli Ahmet Bahtiyar, Trabzonlu Kerim Sebati, İstanbullu Necmeddin Arif ve Şerfeddin Magmumi ve kendilerine inanım olan daha bir çok arkadaşlara verir okudurdum."
+      },
+      {
+        "target": "İzmirli Hikmet",
+        "author_related": true,
+        "start": 116,
+        "end": 130,
+        "sentiment": 1,
+        "context": ", Selanikli Ahmet Bahtiyar, Trabzonlu Kerim Sebati, İstanbullu Necmeddin Arif ve Şerfeddin Magmumi ve kendilerine inanım olan daha bir çok arkadaşlara verir okudurdum."
+      },
+      {
+        "target": "Selanikli Ahmet Bahtiyar",
+        "author_related": true,
+        "start": 132,
+        "end": 156,
+        "sentiment": 1,
+        "context": ", Trabzonlu Kerim Sebati, İstanbullu Necmeddin Arif ve Şerfeddin Magmumi ve kendilerine inanım olan daha bir çok arkadaşlara verir okudurdum."
+      },
+      {
+        "target": "Trabzonlu Kerim Sebati",
+        "author_related": true,
+        "start": 158,
+        "end": 180,
+        "sentiment": 1,
+        "context": ", İstanbullu Necmeddin Arif ve Şerfeddin Magmumi ve kendilerine inanım olan daha bir çok arkadaşlara verir okudurdum."
+      },
+      {
+        "target": "İstanbullu Necmeddin Arif",
+        "author_related": true,
+        "start": 182,
+        "end": 207,
+        "sentiment": 1,
+        "context": " ve Şerfeddin Magmumi ve kendilerine inanım olan daha bir çok arkadaşlara verir okudurdum."
+      },
+      {
+        "target": "Şerfeddin Magmumi",
+        "author_related": true,
+        "start": 211,
+        "end": 228,
+        "sentiment": 1,
+        "context": " ve kendilerine inanım olan daha bir çok arkadaşlara verir okudurdum."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 15,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 15.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Hilali Ahmer barakaları karşısındaki ağaçlar altında elimde kitap dolaşırken, İshak Sükuti yanıma sokuldu, yeni bir şeyler olup olmadığını sordu.",
+      "entities": [
+      {
+        "target": "İshak Sükuti",
+        "author_related": true,
+        "start": 78,
+        "end": 90,
+        "sentiment": 1,
+        "context": " yanıma sokuldu, yeni bir şeyler olup olmadığını sordu."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 16,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 16.",
+      "notes": "Türkçe"
+    }
+  },
+    {
+    "text": "Bence böyle kuru mülahazalar ve mütalealarda derd yanacağımıza, faaliyete geçmek lazımdır. İshak - Ne gibi bir faaliyete? Ben - Bir cemiyet Halinde çalışmakla.",
+      "entities": [
+      {
+        "target": "İshak",
+        "author_related": true,
+        "start": 91,
+        "end": 96,
+        "sentiment": 1,
+        "context": " - Ne gibi bir faaliyete? Ben - Bir cemiyet Halinde çalışmakla."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 16,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 16.",
+      "notes": "Türkçe"
+    }
+  },
+    {
+    "text": "İshak - Güzel ama, sen kime itimad edip te böyle tehlikeli bir işe teşebbüs etmemizi düşünüyorsun?!",
+      "entities": [
+      {
+        "target": "İshak",
+        "author_related": true,
+        "start": 0,
+        "end": 5,
+        "sentiment": 0,
+        "context": " - Güzel ama, sen kime itimad edip te böyle tehlikeli bir işe teşebbüs etmemizi düşünüyorsun?"
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 16,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 16.",
+      "notes": "Türkçe"
+    }
+  },
+    {
+    "text": "Mehmed Reşide işaret ederek yanımıza çağırdık. Fikrimizi açtık. Bu sırada, o zaman çok sofu olan Abdullah Cevdet ikindi namazını kılarak mektebin camisinden çıkıp yanımıza geldikte: alınız bir de dördüncü dedim.",
+      "entities": [
+      {
+        "target": "Mehmed Reşid",
+        "author_related": true,
+        "start": 0,
+        "end": 12,
+        "sentiment": 1,
+        "context": "e işaret ederek yanımıza çağırdık. Fikrimizi açtık. Bu sırada, o zaman çok sofu olan Abdullah Cevdet ikindi namazını kılarak mektebin camisinden çıkıp yanımıza geldikte: alınız bir de dördüncü dedim."
+      },
+      {
+        "target": "Abdullah Cevdet",
+        "author_related": true,
+        "start": 97,
+        "end": 112,
+        "sentiment": 1,
+        "context": " ikindi namazını kılarak mektebin camisinden çıkıp yanımıza geldikte: alınız bir de dördüncü dedim."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 17,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 17.",
+      "notes": "Türkçe"
+    }
+  },
+    {
+    "text": "Mehmed Reşid - Kardeşim, teklifinize itiraz değil teşekkür ederim. Lakim bu dört tıbbiyeli gençler ne yapabilir? Koca bir cemiyeti hafiye nasıl teşekkül edebilir? Bu koca div istibdadla nasıl boğuşabiliriz? Hayal ile uğraşmıyalım; bunun başka bir yolunu bulalım, dedi.",
+      "entities": [
+      {
+        "target": "Mehmed Reşid",
+        "author_related": true,
+        "start": 0,
+        "end": 12,
+        "sentiment": 1,
+        "context": " - Kardeşim, teklifinize itiraz değil teşekkür ederim. Lakim bu dört tıbbiyeli gençler ne yapabilir? Koca bir cemiyeti hafiye nasıl teşekkül edebilir? Bu koca div istibdadla nasıl boğuşabiliriz? Hayal ile uğraşmıyalım; bunun başka bir yolunu bulalım, dedi."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 17,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 17.",
+      "notes": "Türkçe"
+    }
+  },
+    {
+    "text": "Ben yerini buldum. İstanbul haricinde benim çok itimad ettiğim bağcı Aluş ağayı gidip gördüm.",
+      "entities": [
+      {
+        "target": "ALuş ağa",
+        "author_related": true,
+        "start": 69,
+        "end": 77,
+        "sentiment": 2,
+        "context": "yı gidip gördüm."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 19,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 19.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Bu cemiyetin ilk içtimaı idi ve şu zevattan mürekkep idi; O zamanki adliye yüksek memurlarından Hersekli Ali Rüşdi, gazete muharrirlerinden İzmirli Ali Şefik, tıbbiyeli Asaf Derviş, Muharrem Girid, Dr. Abdullah Cevdet, İshak Sükuti, Şerfeddin Magmumi, Çerkes Mehmed Reşid, ben ve isimlerini derhatır edemediğim daha üç kişi.",
+      "entities": [
+      {
+        "target": "Hersekli Ali Rüşdi",
+        "author_related": true,
+        "start": 96,
+        "end": 114,
+        "sentiment": 1,
+        "context": ", gazete muharrirlerinden İzmirli Ali Şefik, tıbbiyeli Asaf Derviş, Muharrem Girid, Dr. Abdullah Cevdet, İshak Sükuti, Şerfeddin Magmumi, Çerkes Mehmed Reşid, ben ve isimlerini derhatır edemediğim daha üç kişi."
+      },
+      {
+        "target": "İzmirli Ali Şefik",
+        "author_related": true,
+        "start": 140,
+        "end": 157,
+        "sentiment": 1,
+        "context": ", tıbbiyeli Asaf Derviş, Muharrem Girid, Dr. Abdullah Cevdet, İshak Sükuti, Şerfeddin Magmumi, Çerkes Mehmed Reşid, ben ve isimlerini derhatır edemediğim daha üç kişi."
+      },
+      {
+        "target": "Asaf Derviş",
+        "author_related": true,
+        "start": 169,
+        "end": 180,
+        "sentiment": 1,
+        "context": ", Muharrem Girid, Dr. Abdullah Cevdet, İshak Sükuti, Şerfeddin Magmumi, Çerkes Mehmed Reşid, ben ve isimlerini derhatır edemediğim daha üç kişi."
+      },
+      {
+        "target": "Muharrem Girid",
+        "author_related": true,
+        "start": 182,
+        "end": 196,
+        "sentiment": 1,
+        "context": ", Dr. Abdullah Cevdet, İshak Sükuti, Şerfeddin Magmumi, Çerkes Mehmed Reşid, ben ve isimlerini derhatır edemediğim daha üç kişi."
+      },
+      {
+        "target": "Dr. Abdullah Cevdet",
+        "author_related": true,
+        "start": 198,
+        "end": 217,
+        "sentiment": 1,
+        "context": ", İshak Sükuti, Şerfeddin Magmumi, Çerkes Mehmed Reşid, ben ve isimlerini derhatır edemediğim daha üç kişi."
+      },
+      {
+        "target": "İshak Sükuti",
+        "author_related": true,
+        "start": 219,
+        "end": 231,
+        "sentiment": 1,
+        "context": ", Şerfeddin Magmumi, Çerkes Mehmed Reşid, ben ve isimlerini derhatır edemediğim daha üç kişi."
+      },
+      {
+        "target": "Şerfeddin Magmumi",
+        "author_related": true,
+        "start": 233,
+        "end": 250,
+        "sentiment": 1,
+        "context": ", Çerkes Mehmed Reşid, ben ve isimlerini derhatır edemediğim daha üç kişi."
+      },
+      {
+        "target": "Çerkes Mehmed Reşid",
+        "author_related": true,
+        "start": 252,
+        "end": 271,
+        "sentiment": 1,
+        "context": ", ben ve isimlerini derhatır edemediğim daha üç kişi."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 20,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 20.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Ali Rüşdi efendi hepimizden yaşlı ve sarıklı olduğu için reis, Şerfeddin zabıt katibi, Asaf Derviş kasadar olarak ayrıldılar. Ben ise ittihaz olunacak sıra numaralarının 1/1 serisi başı oldum.",
+      "entities": [
+      {
+        "target": "Ali Rüşdi efendi",
+        "author_related": true,
+        "start": 0,
+        "end": 16,
+        "sentiment": 1,
+        "context": " hepimizden yaşlı ve sarıklı olduğu için reis, Şerfeddin zabıt katibi, Asaf Derviş kasadar olarak ayrıldılar. Ben ise ittihaz olunacak sıra numaralarının 1/1 serisi başı oldum."
+      },
+      {
+        "target": "Şerfeddin",
+        "author_related": true,
+        "start": 63,
+        "end": 72,
+        "sentiment": 1,
+        "context": " zabıt katibi, Asaf Derviş kasadar olarak ayrıldılar. Ben ise ittihaz olunacak sıra numaralarının 1/1 serisi başı oldum."
+      },
+      {
+        "target": "Asaf Derviş",
+        "author_related": true,
+        "start": 87,
+        "end": 98,
+        "sentiment": 1,
+        "context": " kasadar olarak ayrıldılar. Ben ise ittihaz olunacak sıra numaralarının 1/1 serisi başı oldum."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 20,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 20.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Giridli Muharrem, islamın gayri efradın ademi kabulü tezini ileri sürmüşse de bu fikir red olunarak, iş görebilecek ve itimad edilecek her osmanlının, gayet ihtiyatkarane ve her türlü tecrübeden geçirilerek kabulü cihetine karar verildi. İçtimalardaki müzakerelerin notalarını zabt ve kaydi işi Şerfeddin Magmumi ve İshak Sükutiye havale olundu.",
+      "entities": [
+      {
+        "target": "Giridli Muharrem",
+        "author_related": true,
+        "start": 0,
+        "end": 16,
+        "sentiment": 0,
+        "context": ", islamın gayri efradın ademi kabulü tezini ileri sürmüşse de bu fikir red olunarak, iş görebilecek ve itimad edilecek her osmanlının, gayet ihtiyatkarane ve her türlü tecrübeden geçirilerek kabulü cihetine karar verildi. İçtimalardaki müzakerelerin notalarını zabt ve kaydi işi Şerfeddin Magmumi ve İshak Sükutiye havale olundu."
+      },
+      {
+        "target": "Şerfeddin Magmumi",
+        "author_related": true,
+        "start": 295,
+        "end": 312,
+        "sentiment": 1,
+        "context": " ve İshak Sükutiye havale olundu."
+      },
+      {
+        "target": "İshak Sükuti",
+        "author_related": true,
+        "start": 316,
+        "end": 328,
+        "sentiment": 1,
+        "context": "ye havale olundu."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 20,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 20.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "kemali sadakatle hizmet eden Aluş ağa beni bir kenara çekerek: merak etmeyiniz, konuşmanıza devam ediniz, anladım, bu bir rakı muhabbeti değildir. Ben pek genç iken Sultan Azizin hal'i için toplanan Paşaların toplantısına benzer bir görüşme yapıyorsunuz.",
+      "entities": [
+      {
+        "target": "Aluş Ağa",
+        "author_related": true,
+        "start": 29,
+        "end": 37,
+        "sentiment": 1,
+        "context": " beni bir kenara çekerek: merak etmeyiniz, konuşmanıza devam ediniz, anladım, bu bir rakı muhabbeti değildir. Ben pek genç iken Sultan Azizin hal'i için toplanan Paşaların toplantısına benzer bir görüşme yapıyorsunuz."
+      },
+      {
+        "target": "Sultan Aziz",
+        "author_related": false,
+        "start": 165,
+        "end": 176,
+        "sentiment": 1,
+        "context": "in hal'i için toplanan Paşaların toplantısına benzer bir görüşme yapıyorsunuz."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 21,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 21.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Birinci içtimaı takip eden ikinci içtimada, idarenin nazarı dikkatini celb etmemek düşüncesile benim ve İshak Sükutinin bulunmaması takarrur etti. Bu içtimada bulunanlardan başka Abdülkerim Sebati dahi vardı ve buna icraat teşkilatı ismi verildi.",
+      "entities": [
+      {
+        "target": "İshak Sükuti",
+        "author_related": true,
+        "start": 104,
+        "end": 116,
+        "sentiment": 1,
+        "context": "nin bulunmaması takarrur etti. Bu içtimada bulunanlardan başka Abdülkerim Sebati dahi vardı ve buna icraat teşkilatı ismi verildi."
+      },
+      {
+        "target": "Abdülkerim Sebati",
+        "author_related": true,
+        "start": 179,
+        "end": 196,
+        "sentiment": 1,
+        "context": " dahi vardı ve buna icraat teşkilatı ismi verildi."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 21,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 21.",
+      "notes": "Türkçe"
+    }
+  },
+    {
+    "text": "Benim, ilk defa medreselilerden Kosovalı ve hürriyette mebus olan İbrahim efendiyi ve mülkiye mezunlarından Necip Bey Dragayı, Görice mebusu Şahtin Bey Kolunyayı cemiyetimize soktum. Hafız İbrahim efendi Edirnede Ramazan hocalığı yaparken, serbestçe nasihatte bulunması neticesi mahpushanede posta memurlarından Talat Beyi de idhal etti.",
+      "entities": [
+      {
+        "target": "İbrahim efendi",
+        "author_related": true,
+        "start": 66,
+        "end": 80,
+        "sentiment": 1,
+        "context": " ve mülkiye mezunlarından Necip Bey Dragayı, Görice mebusu Şahtin Bey Kolunyayı cemiyetimize soktum. Hafız İbrahim efendi Edirnede Ramazan hocalığı yaparken, serbestçe nasihatte bulunması neticesi mahpushanede posta memurlarından Talat Beyi de idhal etti."
+      },
+      {
+        "target": "Necip Bey Draga",
+        "author_related": true,
+        "start": 108,
+        "end": 123,
+        "sentiment": 1,
+        "context": ", Görice mebusu Şahtin Bey Kolunyayı cemiyetimize soktum. Hafız İbrahim efendi Edirnede Ramazan hocalığı yaparken, serbestçe nasihatte bulunması neticesi mahpushanede posta memurlarından Talat Beyi de idhal etti."
+      },
+      {
+        "target": "Şahtin Bey Kolunya",
+        "author_related": true,
+        "start": 141,
+        "end": 159,
+        "sentiment": 1,
+        "context": "yı cemiyetimize soktum. Hafız İbrahim efendi Edirnede Ramazan hocalığı yaparken, serbestçe nasihatte bulunması neticesi mahpushanede posta memurlarından Talat Beyi de idhal etti."
+      },
+      {
+        "target": "Hafız İbrahim efendi",
+        "author_related": true,
+        "start": 183,
+        "end": 203,
+        "sentiment": 1,
+        "context": " Edirnede Ramazan hocalığı yaparken, serbestçe nasihatte bulunması neticesi mahpushanede posta memurlarından Talat Beyi de idhal etti."
+      },
+      {
+        "target": "Talat Bey",
+        "author_related": true,
+        "start": 312,
+        "end": 321,
+        "sentiment": 1,
+        "context": "i de idhal etti."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 22,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 22.",
+      "notes": "Türkçe"
+    }
+  },
+    {
+    "text": "Bu sebepten Talat da mürşidi, Hafız İbrahim Efendiyi çok severdi, bana karşı da muhabbeti vardı.",
+      "entities": [
+      {
+        "target": "Talat",
+        "author_related": true,
+        "start": 12,
+        "end": 17,
+        "sentiment": 2,
+        "context": " da mürşidi, Hafız İbrahim Efendiyi çok severdi, bana karşı da muhabbeti vardı."
+      },
+      {
+        "target": "Hafız İbrahim Efendi",
+        "author_related": true,
+        "start": 30,
+        "end": 50,
+        "sentiment": 2,
+        "context": "yi çok severdi, bana karşı da muhabbeti vardı."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 22,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 22.",
+      "notes": "Türkçe"
+    }
+  },
+    {
+    "text": "Bu arkadaşlardan, Şükrü Kamil Bey, babası Ohri redif taburu kumandanı Kamil Beydi.",
+      "entities": [
+      {
+        "target": "Şükrü Kamil Bey",
+        "author_related": true,
+        "start": 18,
+        "end": 33,
+        "sentiment": 1,
+        "context": ", babası Ohri redif taburu kumandanı Kamil Beydi."
+      },
+      {
+        "target": "Kamil Bey",
+        "author_related": true,
+        "start": 70,
+        "end": 79,
+        "sentiment": 1,
+        "context": "di."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 22,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 22.",
+      "notes": "Türkçe"
+    }
+  },
+    {
+    "text": " Bu Kamil Bey, Abdülazizin hal'i münasebetile o zamanlar Ohriye tebid edilmiş ve orada kalmış güya hamiyetli tanınmış bir zattı.",
+      "entities": [
+      {
+        "target": "Kamil Bey",
+        "author_related": true,
+        "start": 3,
+        "end": 12,
+        "sentiment": 0,
+        "context": ", Abdülazizin hal'i münasebetile o zamanlar Ohriye tebid edilmiş ve orada kalmış güya hamiyetli tanınmış bir zattı."
+      },
+      {
+        "target": "Abdülaziz",
+        "author_related": false,
+        "start": 14,
+        "end": 23,
+        "sentiment": 1,
+        "context": "in hal'i münasebetile o zamanlar Ohriye tebid edilmiş ve orada kalmış güya hamiyetli tanınmış bir zattı."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 22,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 22.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "İstrugada bazı uyanık gençleri cemiyete sokmuştum. Bu gençlerden ve maliye tahsildarlarından yazısı güzel Şehabeddin İstrugaya uydurma bir mektup yazdırdım.",
+      "entities": [
+      {
+        "target": "Şehabeddin İstruga",
+        "author_related": true,
+        "start": 106,
+        "end": 124,
+        "sentiment": 1,
+        "context": "ya uydurma bir mektup yazdırdım."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 23,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 23.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Bir gün Kamil Beyi redif dairesinde yalnız buldum. Tam bir fırsattı. Maiyetinde Göriceli Halil çavuş namında biri vardı.",
+      "entities": [
+      {
+        "target": "Kamil Bey",
+        "author_related": true,
+        "start": 8,
+        "end": 17,
+        "sentiment": 2,
+        "context": "i redif dairesinde yalnız buldum. Tam bir fırsattı. Maiyetinde Göriceli Halil çavuş namında biri vardı."
+      },
+      {
+        "target": "Göriceli Halil çavuş",
+        "author_related": true,
+        "start": 80,
+        "end": 100,
+        "sentiment": 1,
+        "context": " namında biri vardı."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 23,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 23.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Halilin elini sıkara Allaha ısmarladıkla tevkiften kurtuldum.",
+      "entities": [
+      {
+        "target": "Halil",
+        "author_related": true,
+        "start": 0,
+        "end": 5,
+        "sentiment": 2,
+        "context": "in elini sıkara Allaha ısmarladıkla tevkiften kurtuldum."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 24,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 24.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Hamiyetli zannettiğimiz ve kendisinden hizmet beklediğimiz Kamil Bey, kendisini sürgünden kurtarmak için bunu vesile ittihaz etmiş.",
+      "entities": [
+      {
+        "target": "Kamil Bey",
+        "author_related": true,
+        "start": 59,
+        "end": 68,
+        "sentiment": 0,
+        "context": ", kendisini sürgünden kurtarmak için bunu vesile ittihaz etmiş."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 24,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 24.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Bir hafta sonra benim ve telgraf ve posta müdirinin ve Halil çavuşun mevkufen ve serian İstanbula sevkımıza Manastır valiliğine emir ve ferman buyurulmuş.",
+      "entities": [
+      {
+        "target": "Halil çavuş",
+        "author_related": true,
+        "start": 55,
+        "end": 66,
+        "sentiment": 1,
+        "context": "un mevkufen ve serian İstanbula sevkımıza Manastır valiliğine emir ve ferman buyurulmuş."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 25,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 25.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Jandarma kumandanı binbaşı Hüseyin Bey, kaza jandarma kumandanı üyzbaşı, maiyetlerindeki süvari jandarmalarile İstruga nahiye müdirini yanlarına alarak beni davet masası başından kaldırarak ve bir şeyden haberi olmayan babamın evini taharri ederek ne evrak buldularsa mühürleyip, beni mevkufen Ohri kaza merkezine getirdiler ve hapse tıktılar.",
+      "entities": [
+      {
+        "target": "Hüseyin Bey",
+        "author_related": true,
+        "start": 27,
+        "end": 38,
+        "sentiment": 0,
+        "context": ", kaza jandarma kumandanı üyzbaşı, maiyetlerindeki süvari jandarmalarile İstruga nahiye müdirini yanlarına alarak beni davet masası başından kaldırarak ve bir şeyden haberi olmayan babamın evini taharri ederek ne evrak buldularsa mühürleyip, beni mevkufen Ohri kaza merkezine getirdiler ve hapse tıktılar."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 25,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 25.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Ertesi gün, posta müdiri Akif efendi ve Halil çavuşla yola çıkardılar. Jandarma kumandanı binbaşı da bizimle beraberdi. Çok doğru bir zat olan janarma kumandanı, iyiliğinden, sofuluğundan naşi ehali arasında Meşin Baba namını taşırdı. Bu binbaşı Hüseyin Bey, babamın dostu idi.",
+      "entities": [
+      {
+        "target": "Akif efendi",
+        "author_related": true,
+        "start": 25,
+        "end": 36,
+        "sentiment": 1,
+        "context": " ve Halil çavuşla yola çıkardılar. Jandarma kumandanı binbaşı da bizimle beraberdi. Çok doğru bir zat olan janarma kumandanı, iyiliğinden, sofuluğundan naşi ehali arasında Meşin Baba namını taşırdı. Bu binbaşı Hüseyin Bey, babamın dostu idi."
+      },
+      {
+        "target": "Halil çavuş",
+        "author_related": true,
+        "start": 40,
+        "end": 51,
+        "sentiment": 1,
+        "context": "la yola çıkardılar. Jandarma kumandanı binbaşı da bizimle beraberdi. Çok doğru bir zat olan janarma kumandanı, iyiliğinden, sofuluğundan naşi ehali arasında Meşin Baba namını taşırdı. Bu binbaşı Hüseyin Bey, babamın dostu idi."
+      },
+      {
+        "target": "binbaşı Hüseyin Bey",
+        "author_related": true,
+        "start": 238,
+        "end": 257,
+        "sentiment": 2,
+        "context": ", babamın dostu idi."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 25,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 25.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Mektebe döndüğümde Necmeddin Bey ve Selanikli Ahmed Bahtiyar efendi, Aluşun bu mühim hizmetini anlattılar ve mektepte kimsenin burnunun kanamadığını söylediler.",
+      "entities": [
+      {
+        "target": "Necmeddin Bey",
+        "author_related": true,
+        "start": 19,
+        "end": 32,
+        "sentiment": 2,
+        "context": " ve Selanikli Ahmed Bahtiyar efendi, Aluşun bu mühim hizmetini anlattılar ve mektepte kimsenin burnunun kanamadığını söylediler."
+      },
+      {
+        "target": "Selanikli Ahmed Bahtiyar efendi",
+        "author_related": true,
+        "start": 36,
+        "end": 67,
+        "sentiment": 2,
+        "context": ", Aluşun bu mühim hizmetini anlattılar ve mektepte kimsenin burnunun kanamadığını söylediler."
+      },
+      {
+        "target": "Aluş",
+        "author_related": true,
+        "start": 69,
+        "end": 73,
+        "sentiment": 2,
+        "context": "un bu mühim hizmetini anlattılar ve mektepte kimsenin burnunun kanamadığını söylediler."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 27,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 27.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Meger o sabah ermeni komitacıları, Kum kapıdaki ermeni kilisesinde kendi patriklerini yaralamışlar. Padişaha mesele arzolunca işin tahkiki için Gazi Osman ve Derviş paşaları patrikhaneye yollamış ve kendisi camii şerif mahfeli mahsusunda beklemekte imiş.",
+      "entities": [
+      {
+        "target": "Padişah",
+        "author_related": false,
+        "start": 100,
+        "end": 107,
+        "sentiment": 1,
+        "context": "a mesele arzolunca işin tahkiki için Gazi Osman ve Derviş paşaları patrikhaneye yollamış ve kendisi camii şerif mahfeli mahsusunda beklemekte imiş."
+      },
+      {
+        "target": "Gazi Osman",
+        "author_related": false,
+        "start": 144,
+        "end": 154,
+        "sentiment": 1,
+        "context": " ve Derviş paşaları patrikhaneye yollamış ve kendisi camii şerif mahfeli mahsusunda beklemekte imiş."
+      },
+      {
+        "target": "Derviş paşa",
+        "author_related": false,
+        "start": 158,
+        "end": 169,
+        "sentiment": 1,
+        "context": "ları patrikhaneye yollamış ve kendisi camii şerif mahfeli mahsusunda beklemekte imiş."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 28,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 28.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Aynı gün akşam ezanını müteakıp jandarma binbaşısı beni, Akifi, Halili ikinci fırka kumandanlık dairesine götürdü. O sıralarda kumandan, muahharan serasker olan mahud Rıza Paşa idi.",
+      "entities": [
+      {
+        "target": "Akif",
+        "author_related": true,
+        "start": 57,
+        "end": 61,
+        "sentiment": 1,
+        "context": "i, Halili ikinci fırka kumandanlık dairesine götürdü. O sıralarda kumandan, muahharan serasker olan mahud Rıza Paşa idi."
+      },
+      {
+        "target": "Halil",
+        "author_related": true,
+        "start": 64,
+        "end": 69,
+        "sentiment": 1,
+        "context": "i ikinci fırka kumandanlık dairesine götürdü. O sıralarda kumandan, muahharan serasker olan mahud Rıza Paşa idi."
+      },
+      {
+        "target": "Rıza Paşa",
+        "author_related": true,
+        "start": 167,
+        "end": 176,
+        "sentiment": 1,
+        "context": " idi."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 28,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 28.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Rıza Paşa hepimizi gözden geçirdikten ve tahriratı okuyup kısaca bir iki sual sorduktan sonra kılıncımın belimden alınmasını emretti. Kılıncımı teslim alan fırka kumandanı yaveri binbaşı Şefik Beyin cemiyetimize dahil olduğunu bildiğim için, kılıncımı alırken yüzü sarardı.",
+      "entities": [
+      {
+        "target": "Rıza Paşa",
+        "author_related": true,
+        "start": 0,
+        "end": 9,
+        "sentiment": 1,
+        "context": " hepimizi gözden geçirdikten ve tahriratı okuyup kısaca bir iki sual sorduktan sonra kılıncımın belimden alınmasını emretti. Kılıncımı teslim alan fırka kumandanı yaveri binbaşı Şefik Beyin cemiyetimize dahil olduğunu bildiğim için, kılıncımı alırken yüzü sarardı."
+      },
+      {
+        "target": "Şefik Bey",
+        "author_related": true,
+        "start": 187,
+        "end": 196,
+        "sentiment": 1,
+        "context": "in cemiyetimize dahil olduğunu bildiğim için, kılıncımı alırken yüzü sarardı."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 28,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 28.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Baş Katip dairesinde Hersekli Kamil Bey namında bir mabeynci, tahkikat ve isticvap için memur edilmişti.",
+      "entities": [
+      {
+        "target": "Hersekli Kamil Bey",
+        "author_related": true,
+        "start": 21,
+        "end": 39,
+        "sentiment": 1,
+        "context": " namında bir mabeynci, tahkikat ve isticvap için memur edilmişti."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 29,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 29.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Saraydan çıktıktan sonra öğrendim ki, o genç katip, Namık Kemal Beyin oğlu imiş ve hamiyeten bu işarette bulunmuş.",
+      "entities": [
+      {
+        "target": "Namık Kemal Bey",
+        "author_related": true,
+        "start": 52,
+        "end": 67,
+        "sentiment": 1,
+        "context": "in oğlu imiş ve hamiyeten bu işarette bulunmuş."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 30,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 30.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Peki, sen binbaşı Kamil beyi ve oğlu tıbbiyeli arkadaşınız Şükrü Kamil efendiyi nasıl tanırsın?  ... Hayır zan etmem ki Kamil bey bana iftira etsin. Onunla tanışıklığım, oğlunun mektep arkadaşım olması dolayısiledir. Yoksa başka hiç bir münasebetim yoktur ve düşmanım da değildir.",
+      "entities": [
+      {
+        "target": "binbaşı Kamil bey",
+        "author_related": true,
+        "start": 10,
+        "end": 27,
+        "sentiment": 1,
+        "context": "i ve oğlu tıbbiyeli arkadaşınız Şükrü Kamil efendiyi nasıl tanırsın?  ... Hayır zan etmem ki Kamil bey bana iftira etsin. Onunla tanışıklığım, oğlunun mektep arkadaşım olması dolayısiledir. Yoksa başka hiç bir münasebetim yoktur ve düşmanım da değildir."
+      },
+      {
+        "target": "Şükrü Kamil efendi",
+        "author_related": true,
+        "start": 59,
+        "end": 77,
+        "sentiment": 1,
+        "context": "yi nasıl tanırsın?  ... Hayır zan etmem ki Kamil bey bana iftira etsin. Onunla tanışıklığım, oğlunun mektep arkadaşım olması dolayısiledir. Yoksa başka hiç bir münasebetim yoktur ve düşmanım da değildir."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 31,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 31.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Ben içeri girer, girmez binbaşı Kamil bey: Ha, işte bu talebe efendi İstanbuldan yeni geldi, buna soralım, diye biraz evvel geçen mübaheseleri tekiden bana: Paşa hazretleri ve arnavud beyi işitmişler ki, Padişahımızın baş bendesi İşkodralı Tahir Paşa nazarı aliden düşmüş ve Tiranlı Gani bey ser silahşur tayin edilmiş.",
+      "entities": [
+      {
+        "target": "Kamil bey",
+        "author_related": true,
+        "start": 32,
+        "end": 41,
+        "sentiment": 1,
+        "context": ": Ha, işte bu talebe efendi İstanbuldan yeni geldi, buna soralım, diye biraz evvel geçen mübaheseleri tekiden bana: Paşa hazretleri ve arnavud beyi işitmişler ki, Padişahımızın baş bendesi İşkodralı Tahir Paşa nazarı aliden düşmüş ve Tiranlı Gani bey ser silahşur tayin edilmiş."
+      },
+      {
+        "target": "İşkodralı Tahir Paşa",
+        "author_related": false,
+        "start": 230,
+        "end": 250,
+        "sentiment": 1,
+        "context": " nazarı aliden düşmüş ve Tiranlı Gani bey ser silahşur tayin edilmiş."
+      },
+      {
+        "target": "Tiranlı Gani bey",
+        "author_related": false,
+        "start": 275,
+        "end": 291,
+        "sentiment": 1,
+        "context": " ser silahşur tayin edilmiş."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 32,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 32.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "İbrahim efendi, tebrik ederim, mazlumiyetiniz tahakkuk etti. Hakikaten iftiraya uğramışsınız dedi.",
+      "entities": [
+      {
+        "target": "İbrahim efendi",
+        "author_related": true,
+        "start": 0,
+        "end": 14,
+        "sentiment": 2,
+        "context": ", tebrik ederim, mazlumiyetiniz tahakkuk etti. Hakikaten iftiraya uğramışsınız dedi."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 34,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 34.",
+      "notes": "Türkçe"
+    }
+  },
+   {
+    "text": "Müdir Akif bey omuzlarını ve dizlerini büzerek, kemali tevazule bir tabağı alıp tekrar iskemlesine çekildi. Ben de sandalyamı masaya yaklaştırarak üçüncü tabağı aldım. Sarayın o leziz dondurmasını yerken kapı açıldı. Mektebi tıbbiyei askeriye nazırı Dr. Saip paşa içeri girdi.",
+      "entities": [
+      {
+        "target": "Müdir Akif bey",
+        "author_related": true,
+        "start": 0,
+        "end": 14,
+        "sentiment": 1,
+        "context": " omuzlarını ve dizlerini büzerek, kemali tevazule bir tabağı alıp tekrar iskemlesine çekildi. Ben de sandalyamı masaya yaklaştırarak üçüncü tabağı aldım. Sarayın o leziz dondurmasını yerken kapı açıldı. Mektebi tıbbiyei askeriye nazırı Dr. Saip paşa içeri girdi."
+      },
+      {
+        "target": "Dr. Saip paşa",
+        "author_related": true,
+        "start": 250,
+        "end": 263,
+        "sentiment": 1,
+        "context": " içeri girdi."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 34,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 34.",
+      "notes": "Türkçe"
+    }
+  },
+   {
+    "text": "Tam  bu sırada mektep nazırı Saip paşa odaya girdi. Mabeyinci beye hitaben, İbrahim efendiyi alıp götürebilirmiyim dedi.",
+      "entities": [
+      {
+        "target": "Saip paşa",
+        "author_related": true,
+        "start": 29,
+        "end": 38,
+        "sentiment": 1,
+        "context": " odaya girdi. Mabeyinci beye hitaben, İbrahim efendiyi alıp götürebilirmiyim dedi"
+      },
+      {
+        "target": "İbrahim efendi",
+        "author_related": true,
+        "start": 76,
+        "end": 90,
+        "sentiment": 1,
+        "context": "yi alıp götürebilirmiyim dedi."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 35,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 35.",
+      "notes": "Türkçe"
+    }
+  },
+   {
+    "text": "Ben, merhum imrazı akliye müderrisi Raşid Tahsin ile mektebin camii üzerindeki daracık bir odaya yerleştirilmiştik. Raşid, ..., ezberci olduğu münasebetle, gürültüsüz ve tenha olan bu odayı istemiş ve mektep idaresi ikimize vermişti.",
+      "entities": [
+      {
+        "target": "Raşid Tahsin",
+        "author_related": true,
+        "start": 36,
+        "end": 48,
+        "sentiment": 1,
+        "context": " ile mektebin camii üzerindeki daracık bir odaya yerleştirilmiştik"
+      },
+      {
+        "target": "Raşid",
+        "author_related": true,
+        "start": 116,
+        "end": 121,
+        "sentiment": 1,
+        "context": ", ..., ezberci olduğu münasebetle, gürültüsüz ve tenha olan bu odayı istemiş ve mektep idaresi ikimize vermişti."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 36,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 36.",
+      "notes": "Türkçe"
+    }
+  },
+   {
+    "text": "Birgün askeri mektepler nazırı Zekki paşa teftiş için mektebe geldiğinde, bütün maiyetile camiye ve oradan da odama girdi. Biz Raşid Tahsinle müzakerede idik.",
+      "entities": [
+      {
+        "target": "Zekki paşa",
+        "author_related": true,
+        "start": 31,
+        "end": 41,
+        "sentiment": 1,
+        "context": " teftiş için mektebe geldiğinde, bütün maiyetile camiye ve oradan da odama girdi. Biz Raşid Tahsinle müzakerede idik."
+      },
+      {
+        "target": "Raşid Tahsin",
+        "author_related": true,
+        "start": 127,
+        "end": 139,
+        "sentiment": 1,
+        "context": "le müzakerede idik."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 37,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 37.",
+      "notes": "Türkçe"
+    }
+  },
+   {
+    "text": "Zekki paşa, disiplin ve askeri kavaidine riayet ettiği için talebenin pek çoğu onu müstebid gibi telakki ederlerdi. Lakin talebeyi tahkir etmez, söz dinler bir amirdi.",
+      "entities": [
+      {
+        "target": "Zekki paşa",
+        "author_related": true,
+        "start": 0,
+        "end": 10,
+        "sentiment": 2,
+        "context": ", disiplin ve askeri kavaidine riayet ettiği için talebenin pek çoğu onu müstebid gibi telakki ederlerdi. Lakin talebeyi tahkir etmez, söz dinler bir amirdi."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 37,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 37.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Ben zanettim ki, divani harbe yollayıp tard ettirecek; lakin bu fena düşüncem çıkmadı, yalnız sık sık müdirimiz miralay Namık bey ve diğer zabitler odamı teftişe geliyorlardı.",
+      "entities": [
+      {
+        "target": "miralay Namık bey",
+        "author_related": true,
+        "start": 112,
+        "end": 129,
+        "sentiment": 1,
+        "context": " ve diğer zabitler odamı teftişe geliyorlardı."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 38,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 38.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Üçyüz sahifeden ziyade tutan ve her kes için faideli olan Aile tabibi namındaki eserim, kitapçı Arakel efendi kütüphanesi vasıtasile bin nüsha olarak bastırdım.",
+      "entities": [
+      {
+        "target": "kitapçı Arakel efendi",
+        "author_related": true,
+        "start": 88,
+        "end": 109,
+        "sentiment": 1,
+        "context": " kütüphanesi vasıtasile bin nüsha olarak bastırdım."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 38,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 38.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "ser silahşör Tahir paşanın tavassutuna müraceat etmişsem de bir netice çıkmadığından, kitapçı ile anlaşarak kendim bastırdım.",
+      "entities": [
+      {
+        "target": "Tahir paşa",
+        "author_related": true,
+        "start": 13,
+        "end": 23,
+        "sentiment": 1,
+        "context": "nın tavassutuna müraceat etmişsem de bir netice çıkmadığından, kitapçı ile anlaşarak kendim bastırdım."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 39,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 39.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Benim çıktığım tarihe kadar bizde bu usul yoktu. İlk defa bizde müderris general Dr. Besim Ömer vermişti.Bir usul ittihaz zımnında bir müddet sonra ikincisini ben verdim.",
+      "entities": [
+      {
+        "target": "Dr. Besim Ömer",
+        "author_related": true,
+        "start": 81,
+        "end": 95,
+        "sentiment": 1,
+        "context": " vermişti.Bir usul ittihaz zımnında bir müddet sonra ikincisini ben verdim."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 39,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 39.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Daülkelp enstitösü müdiri ve kudus hastalığı muallimi Zeoros paşa idi ve tez imtihanıma riyaset ediyordu.",
+      "entities": [
+      {
+        "target": "Zeoros paşa",
+        "author_related": true,
+        "start": 54,
+        "end": 65,
+        "sentiment": 1,
+        "context": " idi ve tez imtihanıma riyaset ediyordu."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 39,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 39.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Haziran nihayetinde seraskerin emrile göz hastalıkları mütekassısı miralayDikran Acemian efendinin kliniğine diğer altı tabib arkadaşımla iki sene için Haydarpaşada göz hastalıklarına devam etmeğe başladık.",
+      "entities": [
+      {
+        "target": "miralayDikran Acemian efendi",
+        "author_related": true,
+        "start": 67,
+        "end": 95,
+        "sentiment": 1,
+        "context": "nin kliniğine diğer altı tabib arkadaşımla iki sene için Haydarpaşada göz hastalıklarına devam etmeğe başladık."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 40,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 40.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Birgün muallimimiz Dikran Acemian bey ile Haydarpaşa hastahanesinden vapurla İstanbula dönerken hissiyati şairanem uyandı, güya şairliğim tuttu. Efkarı umumiyeyi işgal eden zelzele üzerine bazı beyitler yumurtladım ve denizin temiz havasile güvertede kurşun kalemle yazmağa başladım. Arkamda ayak üzerinde duran koğuşumuzun eczacısı Mustafa efendi yazdıklarımı okumuş, bitirdiğimde kendisinin de bu parçaları kopya etmesini rica etti.",
+      "entities": [
+      {
+        "target": "Dikran Acemian bey",
+        "author_related": true,
+        "start": 19,
+        "end": 37,
+        "sentiment": 1,
+        "context": " ile Haydarpaşa hastahanesinden vapurla İstanbula dönerken hissiyati şairanem uyandı, güya şairliğim tuttu. ..."
+      },
+      {
+        "target": "Mustafa efendi",
+        "author_related": true,
+        "start": 333,
+        "end": 347,
+        "sentiment": 1,
+        "context": " yazdıklarımı okumuş, bitirdiğimde kendisinin de bu parçaları kopya etmesini rica etti."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 41,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 41.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Eczacı Mustafa efendinin askeri tıbbiyesi üçüncü sınıfında, yani eski tabirle yedide, Kartallı Çingene Mustafa lakabını alan Mustafa Ragıp adında bir akrabası varmış.",
+      "entities": [
+      {
+        "target": "Eczacı Mustafa efendi",
+        "author_related": true,
+        "start": 0,
+        "end": 21,
+        "sentiment": 1,
+        "context": "nin askeri tıbbiyesi üçüncü sınıfında, yani eski tabirle yedide, Kartallı Çingene Mustafa lakabını alan Mustafa Ragıp adında bir akrabası varmış."
+      },
+      {
+        "target": "Mustafa Ragıp",
+        "author_related": false,
+        "start": 125,
+        "end": 138,
+        "sentiment": 1,
+        "context": " adında bir akrabası varmış."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 41,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 41.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Divani harp heyeti, askeri mekteplerin nazır muavini ferik Riza paşa riyasetinde tıbbiyei askeriyede teşekkül ederek hepimiz istintak altına alındık. En kestirme yol olan inkara saplandık.",
+      "entities": [
+      {
+        "target": "ferik Riza paşa",
+        "author_related": true,
+        "start": 53,
+        "end": 68,
+        "sentiment": 0,
+        "context": " riyasetinde tıbbiyei askeriyede teşekkül ederek hepimiz istintak altına alındık. En kestirme yol olan inkara saplandık."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 42,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 42.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Reis Riza paşa divan heyetini terk ile beni önüne katıp dairenin taş merdivenlerinden inerken, bana yavaşça: baksana doktor!",
+      "entities": [
+      {
+        "target": "Reis Riza paşa",
+        "author_related": true,
+        "start": 0,
+        "end": 14,
+        "sentiment": 0,
+        "context": " divan heyetini terk ile beni önüne katıp dairenin taş merdivenlerinden inerken, bana yavaşça: baksana doktor!"
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 43,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 43.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Ahmedi okşayarak, bu son nefesinde dar ağacında görmememi ve ne kadar olsa Zekki paşanın mektepliler hakkında gösterdiği ve yaptığı iyilikleri",
+      "entities": [
+      {
+        "target": "Ahmed",
+        "author_related": true,
+        "start": 0,
+        "end": 5,
+        "sentiment": 2,
+        "context": "i okşayarak, bu son nefesinde dar ağacında görmememi ve ne kadar olsa Zekki paşanın mektepliler hakkında gösterdiği ve yaptığı iyilikleri"
+      },
+      {
+        "target": "Zekki paşa",
+        "author_related": true,
+        "start": 75,
+        "end": 85,
+        "sentiment": 2,
+        "context": "nın mektepliler hakkında gösterdiği ve yaptığı iyilikleri"
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 45,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 45.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Bu sıralarda mekatibi aliye arasında, ezcümle tıbbiye, mülkiye, askeriye ve bahriyede harekatı ahrarane bütün kuvvetile başlamıştı ve Avrupaya firar edenler de çoğalıyordu. Ubeydullah efendi, Beykozlu Zühdü, Arab Ahmed Verdani, Tunalı Hilmi gibi zevat vapurlara atlayıp her biri birer yolla İstanbulu terk ettiler ve muhtelif Avrupa memleketlerine yayıldılar. ",
+      "entities": [
+      {
+        "target": "Ubeydullah efendi",
+        "author_related": true,
+        "start": 173,
+        "end": 190,
+        "sentiment": 1,
+        "context": ", Beykozlu Zühdü, Arab Ahmed Verdani, Tunalı Hilmi gibi zevat vapurlara atlayıp her biri birer yolla İstanbulu terk ettiler ve muhtelif Avrupa memleketlerine yayıldılar."
+      },
+      {
+        "target": "Beykozlu Zühdü",
+        "author_related": true,
+        "start": 192,
+        "end": 206,
+        "sentiment": 1,
+        "context": ", Arab Ahmed Verdani, Tunalı Hilmi gibi zevat vapurlara atlayıp her biri birer yolla İstanbulu terk ettiler ve muhtelif Avrupa memleketlerine yayıldılar."
+      },
+      {
+        "target": "Arab Ahmed Verdani",
+        "author_related": true,
+        "start": 208,
+        "end": 226,
+        "sentiment": 1,
+        "context": ", Tunalı Hilmi gibi zevat vapurlara atlayıp her biri birer yolla İstanbulu terk ettiler ve muhtelif Avrupa memleketlerine yayıldılar."
+      },
+      {
+        "target": "Tunalı Hilmi",
+        "author_related": true,
+        "start": 228,
+        "end": 240,
+        "sentiment": 1,
+        "context": " gibi zevat vapurlara atlayıp her biri birer yolla İstanbulu terk ettiler ve muhtelif Avrupa memleketlerine yayıldılar."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 45,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 45.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Ertesi gün bir neferin nezareti altında abdesthaneye giderken halânın bir gözünde Dr. Şükrü Kâmil beyi gördüm.",
+      "entities": [
+      {
+        "target": "Dr. Şükrü Kâmil bey",
+        "author_related": true,
+        "start": 82,
+        "end": 101,
+        "sentiment": 1,
+        "context": "i gördüm."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 46,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 46.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Üç dört sene evvel babası binbaşı Kâmil beyin, aleyhimde bir iftirası üzerine tanıştığımı ve mektep arkadaşım olmasından başka bir münasebetim olmadığını söyledim.",
+      "entities": [
+      {
+        "target": "binbaşı Kâmil bey",
+        "author_related": true,
+        "start": 110,
+        "end": 127,
+        "sentiment": 0,
+        "context": "in, aleyhimde bir iftirası üzerine tanıştığımı ve mektep arkadaşım olmasından başka bir münasebetim olmadığını söyledim."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 46,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 46.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "O gün beni, Tophanedeki köşkünde Tophane nazırı olan müşir Zekki paşanın huzuruna çıkardılar. Oraya arkadaşımız Giridli Dr. Şefikın da getirildiğini gördüm.",
+      "entities": [
+      {
+        "target": "müşir Zekki paşa",
+        "author_related": true,
+        "start": 53,
+        "end": 69,
+        "sentiment": 1,
+        "context": "nın huzuruna çıkardılar. Oraya arkadaşımız Giridli Dr. Şefikın da getirildiğini gördüm."
+      },
+      {
+        "target": "Giridli Dr. Şefik",
+        "author_related": true,
+        "start": 112,
+        "end": 129,
+        "sentiment": 1,
+        "context": "ın da getirildiğini gördüm."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 46,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 46.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "İnadına ve izzeti nefsine dokunan Giridli Şefik: Nazır paşa hazretleri, benim bir şeyden haberim yok, zati alinize ne söylemişlerse yalandır ve iftiradır. Bunları kamilen red ederim cevabını verdi. Çok uzatma, İbrahim efendi ile beraber hastahanenize gidiniz emrini verdi. İkimiz birden çıktık kurtulduk. Muahharen Şükrü Kamil Beyin de kurtulduğunu öğrendik.",
+      "entities": [
+      {
+        "target": "Giridli Şefik",
+        "author_related": true,
+        "start": 34,
+        "end": 47,
+        "sentiment": 0,
+        "context": "Şefik: Nazır paşa hazretleri, benim bir şeyden haberim yok, zati alinize ne söylemişlerse yalandır ve iftiradır. Bunları kamilen red ederim cevabını verdi. ..."
+      },
+      {
+        "target": "Nazır paşa",
+        "author_related": true,
+        "start": 49,
+        "end": 59,
+        "sentiment": 0,
+        "context": " hazretleri, benim bir şeyden haberim yok, zati alinize ne söylemişlerse yalandır ve iftiradır. Bunları kamilen red ederim cevabını verdi. Çok uzatma, İbrahim efendi ile beraber hastahanenize gidiniz emrini verdi. İkimiz birden çıktık kurtulduk. Muahharen Şükrü Kamil Beyin de kurtulduğunu öğrendik."
+      },
+      {
+        "target": "Şükrü Kamil Bey",
+        "author_related": true,
+        "start": 315,
+        "end": 330,
+        "sentiment": 1,
+        "context": "in de kurtulduğunu öğrendik."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 47,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 47.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Bizim şubemize mensup Fatih ile civarı teşkilatına nezaret eden en faal arkadaşlarımızdan ve mektebi tıbbiyei mülkiye etıbbasından anasıl Dobrucalı Dr. İsmail İbrahim efendiyi İshak Sükuti ile beraber gidip gördük.",
+      "entities": [
+      {
+        "target": "Dr. İsmail İbrahim efendi",
+        "author_related": true,
+        "start": 148,
+        "end": 173,
+        "sentiment": 1,
+        "context": "yi İshak Sükuti ile beraber gidip gördük."
+      },
+      {
+        "target": "İshak Sükuti",
+        "author_related": true,
+        "start": 176,
+        "end": 188,
+        "sentiment": 1,
+        "context": " ile beraber gidip gördük."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 48,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 48.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Dr. İsmailin biraderi eczacı Mehmed efendi dahi bizlerdendi. Bir gece vakti Galataya gitti, benim evvece tedarik ettiğim Debreli Behcet efendi namındaki tanıdıklarımdan birisinin Fatih civarındaki evine alıp getirdi. Ben de kağıt ve kimyevi mürekkep tedarik etmiş olduğumdan o gece sabaha kadar ben, İshak Sükuti, Dr. İsmail İbrahim, ev sahibi Behcet ile 1000 nüsha kadar manifest bastık.",
+      "entities": [
+      {
+        "target": "Dr. İsmail",
+        "author_related": true,
+        "start": 0,
+        "end": 10,
+        "sentiment": 1,
+        "context": "in biraderi eczacı Mehmed efendi dahi bizlerdendi. Bir gece vakti Galataya gitti, benim evvece tedarik ettiğim Debreli Behcet efendi namındaki tanıdıklarımdan birisinin Fatih civarındaki evine alıp getirdi. Ben de kağıt ve kimyevi mürekkep tedarik etmiş olduğumdan o gece sabaha kadar ben, İshak Sükuti, Dr. İsmail İbrahim, ev sahibi Behcet ile 1000 nüsha kadar manifest bastık."
+      },
+      {
+        "target": "eczacı Mehmed efendi",
+        "author_related": true,
+        "start": 22,
+        "end": 42,
+        "sentiment": 1,
+        "context": " dahi bizlerdendi. Bir gece vakti Galataya gitti, benim evvece tedarik ettiğim Debreli Behcet efendi namındaki tanıdıklarımdan birisinin Fatih civarındaki evine alıp getirdi. Ben de kağıt ve kimyevi mürekkep tedarik etmiş olduğumdan o gece sabaha kadar ben, İshak Sükuti, Dr. İsmail İbrahim, ev sahibi Behcet ile 1000 nüsha kadar manifest bastık."
+      },
+      {
+        "target": "Debreli Behcet efendi",
+        "author_related": true,
+        "start": 121,
+        "end": 142,
+        "sentiment": 1,
+        "context": " namındaki tanıdıklarımdan birisinin Fatih civarındaki evine alıp getirdi. Ben de kağıt ve kimyevi mürekkep tedarik etmiş olduğumdan o gece sabaha kadar ben, İshak Sükuti, Dr. İsmail İbrahim, ev sahibi Behcet ile 1000 nüsha kadar manifest bastık."
+      },
+      {
+        "target": "İshak Sükuti",
+        "author_related": true,
+        "start": 300,
+        "end": 312,
+        "sentiment": 1,
+        "context": ", Dr. İsmail İbrahim, ev sahibi Behcet ile 1000 nüsha kadar manifest bastık."
+      },
+      {
+        "target": "Dr. İsmail İbrahim",
+        "author_related": true,
+        "start": 314,
+        "end": 332,
+        "sentiment": 1,
+        "context": ", ev sahibi Behcet ile 1000 nüsha kadar manifest bastık."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 48,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 48.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Dr. İsmail, Aksaray, Fatih ve hem civarlarına; İshak Sükuti, tıbbiye talebeleri vasıtasile mekteplere, zabitana, memurine ve ezcümle çok ehmmiyet verdiğimiz harbiye mekteplerine; ben de köprünün öbür tarafına, ezcümle Yıldız tarafına mümkün mertebe yaklaşarak dağıtmayı taahhüd etmiştim.",
+      "entities": [
+      {
+        "target": "Dr. İsmail",
+        "author_related": true,
+        "start": 0,
+        "end": 10,
+        "sentiment": 1,
+        "context": ", Aksaray, Fatih ve hem civarlarına; İshak Sükuti, tıbbiye talebeleri vasıtasile mekteplere, zabitana, memurine ve ezcümle çok ehmmiyet verdiğimiz harbiye mekteplerine; ben de köprünün öbür tarafına, ezcümle Yıldız tarafına mümkün mertebe yaklaşarak dağıtmayı taahhüd etmiştim."
+      },
+      {
+        "target": "İshak Sükuti",
+        "author_related": true,
+        "start": 47,
+        "end": 59,
+        "sentiment": 1,
+        "context": ", tıbbiye talebeleri vasıtasile mekteplere, zabitana, memurine ve ezcümle çok ehmmiyet verdiğimiz harbiye mekteplerine; ben de köprünün öbür tarafına, ezcümle Yıldız tarafına mümkün mertebe yaklaşarak dağıtmayı taahhüd etmiştim."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 49,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 49.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Oradan ilerliyerek sadık dostlarımdan hemşehrim alay katibi Kazım Hilmi beyin kışladaki dairesine gidip misafir oldum.",
+      "entities": [
+      {
+        "target": "Kazım Hilmi bey",
+        "author_related": true,
+        "start": 60,
+        "end": 75,
+        "sentiment": 2,
+        "context": "in kışladaki dairesine gidip misafir oldum."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 49,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 49.",
+      "notes": "Türkçe"
+    }
+  },
+   {
+    "text": "Kazım bey, saray mensuplarından kolağası Tiranlı Müslim beyi yanımıza çağırdı.",
+      "entities": [
+      {
+        "target": "Kazım Bey",
+        "author_related": true,
+        "start": 0,
+        "end": 9,
+        "sentiment": 1,
+        "context": ", saray mensuplarından kolağası Tiranlı Müslim beyi yanımıza çağırdı."
+      },
+      {
+        "target": "Tiranlı Müslim bey",
+        "author_related": true,
+        "start": 41,
+        "end": 59,
+        "sentiment": 1,
+        "context": "i yanımıza çağırdı."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 49,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 49.",
+      "notes": "Türkçe"
+    }
+  },
+   {
+    "text": "Biraz dem yuvarlayıp neşeleneceğimiz bir sırada, Müslim bey, saray silahşorlarından İşkodralı Tahir bey tarafından saraya çağrıldı.",
+      "entities": [
+      {
+        "target": "Müslim bey",
+        "author_related": true,
+        "start": 49,
+        "end": 59,
+        "sentiment": 1,
+        "context": ", saray silahşorlarından İşkodralı Tahir bey tarafından saraya çağrıldı."
+      },
+      {
+        "target": "İşkodralı Tahir bey",
+        "author_related": false,
+        "start": 84,
+        "end": 103,
+        "sentiment": 1,
+        "context": " tarafından saraya çağrıldı."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 49,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 49.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Bu nümayişin nasıl birşey olduğuna dair istifsarime karşı Müslim bey; İyi bilmiyorum, fakat pek fena ve halkı isyana teşvik yollu bir şeymiş dedi.",
+      "entities": [
+      {
+        "target": "Müslim bey",
+        "author_related": true,
+        "start": 58,
+        "end": 68,
+        "sentiment": 1,
+        "context": "; İyi bilmiyorum, fakat pek fena ve halkı isyana teşvik yollu bir şeymiş dedi."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 50,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 50.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Bir hafta sonra arkadaşlardan biri bana, henüz şahsan tanımadığım Trabluslu mülazim Abdulhamid efendiyi takdim etti. Bu genç mülazim, saraya mensup Şeyh Zafir efendinin biraderi Şeyh Hamza efendinin oğlu idi.",
+      "entities": [
+      {
+        "target": "Trabluslu mülazim Abdulhamid efendi",
+        "author_related": true,
+        "start": 66,
+        "end": 101,
+        "sentiment": 1,
+        "context": "yi takdim etti. Bu genç mülazim, saraya mensup Şeyh Zafir efendinin biraderi Şeyh Hamza efendinin oğlu idi."
+      },
+      {
+        "target": "Şeyh Zafir efendi",
+        "author_related": false,
+        "start": 148,
+        "end": 165,
+        "sentiment": 1,
+        "context": "nin biraderi Şeyh Hamza efendinin oğlu idi."
+      },
+      {
+        "target": "Şeyh Hamza efendi",
+        "author_related": false,
+        "start": 178,
+        "end": 195,
+        "sentiment": 1,
+        "context": "nin oğlu idi."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 51,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 51.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Acem, Abdulhamid beye büyük hurmet gösterdi. Meseleyi anlatarak acemle konuşurken, bende bulunan kopyayı her ihtimale karşı oturduğum minderin altına sokarak bir vesile ile yerimi değiştirdim.",
+      "entities": [
+      {
+        "target": "Acem",
+        "author_related": true,
+        "start": 0,
+        "end": 4,
+        "sentiment": 1,
+        "context": ", Abdulhamid beye büyük hurmet gösterdi. Meseleyi anlatarak acemle konuşurken, bende bulunan kopyayı her ihtimale karşı oturduğum minderin altına sokarak bir vesile ile yerimi değiştirdim."
+      },
+      {
+        "target": "Abdulhamid bey",
+        "author_related": true,
+        "start": 6,
+        "end": 20,
+        "sentiment": 1,
+        "context": "e büyük hurmet gösterdi. Meseleyi anlatarak acemle konuşurken, bende bulunan kopyayı her ihtimale karşı oturduğum minderin altına sokarak bir vesile ile yerimi değiştirdim."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 51,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 51.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Dr. Tahir efendi namında bir arkadaşımla mektuplaşırdık.",
+      "entities": [
+      {
+        "target": "Dr. Tahir Efendi",
+        "author_related": true,
+        "start": 0,
+        "end": 16,
+        "sentiment": 1,
+        "context": " namında bir arkadaşımla mektuplaşırdık."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 52,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 52.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Bu Tahir efendi, birinci tevkifimde hikaye ettiğim ve ilk defa cemiyetin mevcudiyetini ifşa eden binbaşı Kamil beyin oğlu Dr. Şükrü beyle muhabere ederken, evrakı yakalanmış ve cemiyetin kokusu hissedilerek tekrar tevkif olunmuş.",
+      "entities": [
+      {
+        "target": "Tahir Efendi",
+        "author_related": true,
+        "start": 3,
+        "end": 15,
+        "sentiment": 1,
+        "context": ", birinci tevkifimde hikaye ettiğim ve ilk defa cemiyetin mevcudiyetini ifşa eden binbaşı Kamil beyin oğlu Dr. Şükrü beyle muhabere ederken, evrakı yakalanmış ve cemiyetin kokusu hissedilerek tekrar tevkif olunmuş."
+      },
+      {
+        "target": "binbaşı Kamil bey",
+        "author_related": true,
+        "start": 97,
+        "end": 114,
+        "sentiment": 0,
+        "context": "in oğlu Dr. Şükrü beyle muhabere ederken, evrakı yakalanmış ve cemiyetin kokusu hissedilerek tekrar tevkif olunmuş."
+      },
+      {
+        "target": "Dr. Şükrü bey",
+        "author_related": true,
+        "start": 122,
+        "end": 135,
+        "sentiment": 1,
+        "context": "le muhabere ederken, evrakı yakalanmış ve cemiyetin kokusu hissedilerek tekrar tevkif olunmuş."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 52,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 52.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Hasan paşanın riyasetinde teşekkül eden istintak heyeti, zarfı saklıyarak, benim Dr. Tahirle muhaberem ve Dr. Şükrü Kamille ne münasebetim olduğunu sordular. Dr. Şükrüyü eski bir mektep arkadaşım gibi tanıdığımı ve dakat kendisile katiyen görüşmediğimi, Tahir ile de ancak mektep şeriki sıfatile muhabere ettiğimi, hatta geçenlerde benden bir yemek kitabı istediğini söyledim.",
+      "entities": [
+      {
+        "target": "Hasan Paşa",
+        "author_related": true,
+        "start": 0,
+        "end": 10,
+        "sentiment": 1,
+        "context": "nın riyasetinde teşekkül eden istintak heyeti, zarfı saklıyarak, benim Dr. Tahirle muhaberem ve Dr. Şükrü Kamille ne münasebetim olduğunu sordular. Dr. Şükrüyü eski bir mektep arkadaşım gibi tanıdığımı ve dakat kendisile katiyen görüşmediğimi, Tahir ile de ancak mektep şeriki sıfatile muhabere ettiğimi, hatta geçenlerde benden bir yemek kitabı istediğini söyledim."
+      },
+      {
+        "target": "Dr. Tahir",
+        "author_related": true,
+        "start": 81,
+        "end": 90,
+        "sentiment": 1,
+        "context": "le muhaberem ve Dr. Şükrü Kamille ne münasebetim olduğunu sordular. Dr. Şükrüyü eski bir mektep arkadaşım gibi tanıdığımı ve dakat kendisile katiyen görüşmediğimi, Tahir ile de ancak mektep şeriki sıfatile muhabere ettiğimi, hatta geçenlerde benden bir yemek kitabı istediğini söyledim."
+      },
+      {
+        "target": "Dr. Şükrü Kamil",
+        "author_related": true,
+        "start": 106,
+        "end": 121,
+        "sentiment": 1,
+        "context": "le ne münasebetim olduğunu sordular. Dr. Şükrüyü eski bir mektep arkadaşım gibi tanıdığımı ve dakat kendisile katiyen görüşmediğimi, Tahir ile de ancak mektep şeriki sıfatile muhabere ettiğimi, hatta geçenlerde benden bir yemek kitabı istediğini söyledim."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 53,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 53.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "cehaletinden dolayı 7-8 lâkabını alan Hasan paşa, elinde kamçı ile pür hiddet ayağa kalktı.",
+      "entities": [
+      {
+        "target": "Hasan paşa",
+        "author_related": true,
+        "start": 38,
+        "end": 48,
+        "sentiment": 0,
+        "context": ", elinde kamçı ile pür hiddet ayağa kalktı."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 54,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 54.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Osmanlılığa ve türk lisan ve edebiyatına büyük hizmetleri dokunan Fraşeli Sami beyi ve şilahşorlar arasında en ziyade sevdiğimiz Tahir paşa hazretlerini tanırım.",
+      "entities": [
+      {
+        "target": "Fraşeli Sami bey",
+        "author_related": true,
+        "start": 66,
+        "end": 82,
+        "sentiment": 2,
+        "context": "i ve şilahşorlar arasında en ziyade sevdiğimiz Tahir paşa hazretlerini tanırım."
+      },
+      {
+        "target": "Tahir paşa",
+        "author_related": true,
+        "start": 129,
+        "end": 139,
+        "sentiment": 2,
+        "context": " hazretlerini tanırım."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 55,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 55.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "mevkufiyetimin on dördüncü gecesi yatsıdan sonra Hasan paşa beni karakolundaki odasına aldırdı.",
+      "entities": [
+      {
+        "target": "Hasan paşa",
+        "author_related": true,
+        "start": 49,
+        "end": 59,
+        "sentiment": 1,
+        "context": " beni karakolundaki odasına aldırdı."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 56,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 56.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "arnavud hıristiyanlarının bir kısmı Patrikhaneye muarız olarak Osmanlılık fikrile kilise ve mekteplerinin ayrılmasını istiyorlardı. Bunun için de Göricenin baş papası Haralambi Balamaçi ile romen mektepleri müfettişi Filip Margarit efendiler istanbula gelmişlerdi.",
+      "entities": [
+      {
+        "target": "Haralambi Balamaçi",
+        "author_related": true,
+        "start": 167,
+        "end": 185,
+        "sentiment": 1,
+        "context": " ile romen mektepleri müfettişi Filip Margarit efendiler istanbula gelmişlerdi."
+      },
+      {
+        "target": "Filip Margarit efendi",
+        "author_related": true,
+        "start": 217,
+        "end": 238,
+        "sentiment": 1,
+        "context": "ler istanbula gelmişlerdi."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 58,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 58.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Papas Balamaçiyi, Patrikhane afaros etti, hatta ele geçirselerdi sakalı kesilecekti. Biz birkaç türk talebesi, romen talebesi ile birleşerek, bu fi'ili kabihin icrasına mani olduk.",
+      "entities": [
+      {
+        "target": "Papas Balamaçi",
+        "author_related": true,
+        "start": 0,
+        "end": 14,
+        "sentiment": 0,
+        "context": "yi, Patrikhane afaros etti, hatta ele geçirselerdi sakalı kesilecekti. Biz birkaç türk talebesi, romen talebesi ile birleşerek, bu fi'ili kabihin icrasına mani olduk."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 59,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 59.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Rum komitacıları, bir müddet sonra maalesef papas Haralambiyi Göricede katlettiler. Bu papas, cidden türk mühibbi ve benim de samimi dostumdu.",
+      "entities": [
+      {
+        "target": "papas Haralambi",
+        "author_related": true,
+        "start": 44,
+        "end": 59,
+        "sentiment": 2,
+        "context": "yi Göricede katlettiler. Bu papas, cidden türk mühibbi ve benim de samimi dostumdu."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 59,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 59.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Hürriyetin ilanından sonra Türkiyede nazır tayin olunan Batsarya efendi de bunlardandı. Elan türk muhibbi olarak Bükreş gazetelerinde çalışmaktadır.",
+      "entities": [
+      {
+        "target": "Batsarya efendi",
+        "author_related": false,
+        "start": 56,
+        "end": 71,
+        "sentiment": 2,
+        "context": " de bunlardandı. Elan türk muhibbi olarak Bükreş gazetelerinde çalışmaktadır."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 59,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 59.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Osmanlı hükümeti tarafdarı Nikola Naçu efendinin daveti üzerine idare ettiği leyli mektebe yerleştim.",
+      "entities": [
+      {
+        "target": "Nikola Naçu efendi",
+        "author_related": true,
+        "start": 27,
+        "end": 45,
+        "sentiment": 1,
+        "context": "nin daveti üzerine idare ettiği leyli mektebe yerleştim."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 61,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 61.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Param da pek azdı; lakin Naçu efendi çok hamiyetli ve kendisine baş vuran firarilere yardım ettiği gibi, bana da çok hurmette ve yardımda bulunmağa başladı.",
+      "entities": [
+      {
+        "target": "Naçu efendi",
+        "author_related": true,
+        "start": 25,
+        "end": 36,
+        "sentiment": 2,
+        "context": " çok hamiyetli ve kendisine baş vuran firarilere yardım ettiği gibi, bana da çok hurmette ve yardımda bulunmağa başladı."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 61,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 61.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "boş durmamak için bir sene Bükreş hastahanelerinde göz mütehassısı profesor Manoleskunun kurslarına devam ettikten sonra, serbestçe icrayi tababet etmekliğim üzere sıhhiye dairesinde diplomamın tasdiki lazımdı. İstidamı, bu mosyo Naçu ile beraber Dahiliye Nezaretine takdim ettiğimde o sırada sıhhiye müdiri umumisi bulunan Felix, istidada adımı okur okumaz: bu doktor efendi türk imiş, biz şimdiye kadar hiçbir türk doktoru kabul etmedik, diye istidamı geri verdi.",
+      "entities": [
+      {
+        "target": "profesor Manolesku",
+        "author_related": true,
+        "start": 67,
+        "end": 85,
+        "sentiment": 1,
+        "context": "nun kurslarına devam ettikten sonra, serbestçe icrayi tababet etmekliğim üzere sıhhiye dairesinde diplomamın tasdiki lazımdı. İstidamı, bu mosyo Naçu ile beraber Dahiliye Nezaretine takdim ettiğimde o sırada sıhhiye müdiri umumisi bulunan Felix, istidada adımı okur okumaz: bu doktor efendi türk imiş, biz şimdiye kadar hiçbir türk doktoru kabul etmedik, diye istidamı geri verdi."
+      },
+      {
+        "target": "mosyo Naçu",
+        "author_related": true,
+        "start": 224,
+        "end": 234,
+        "sentiment": 1,
+        "context": " ile beraber Dahiliye Nezaretine takdim ettiğimde o sırada sıhhiye müdiri umumisi bulunan Felix, istidada adımı okur okumaz: bu doktor efendi türk imiş, biz şimdiye kadar hiçbir türk doktoru kabul etmedik, diye istidamı geri verdi."
+      },
+      {
+        "target": "Felix",
+        "author_related": true,
+        "start": 324,
+        "end": 329,
+        "sentiment": 0,
+        "context": ", istidada adımı okur okumaz: bu doktor efendi türk imiş, biz şimdiye kadar hiçbir türk doktoru kabul etmedik, diye istidamı geri verdi."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 62,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 62.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Vaktile bağda yapılan birinci içtimaa iştirak eden türk muharrirlerinden İzmirli Ali Şefik beyin Romanyada Tuna kenarındaki Curcuva kasabasında Osmanlı konsolosu olduğunu öğrendim.",
+      "entities": [
+      {
+        "target": "İzmirli Ali Şefik bey",
+        "author_related": true,
+        "start": 73,
+        "end": 94,
+        "sentiment": 1,
+        "context": "in Romanyada Tuna kenarındaki Curcuva kasabasında Osmanlı konsolosu olduğunu öğrendim."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 65,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 65.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Şefik bey, resmi memur olmakla beraber beni büyük bir sevinçle kabul ve üç gün misafir etti.",
+      "entities": [
+      {
+        "target": "Şefik Bey",
+        "author_related": true,
+        "start": 0,
+        "end": 9,
+        "sentiment": 2,
+        "context": ", resmi memur olmakla beraber beni büyük bir sevinçle kabul ve üç gün misafir etti."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 65,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 65.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Ragıp beni görünce şaşırdı ve aman hocam diye izharı hayret edince parmağımı dudaklarıma götürerek, güya onu tanımıyormuşum gibi davranıp susmasını işaret ettim.",
+      "entities": [
+      {
+        "target": "Ragıp",
+        "author_related": true,
+        "start": 0,
+        "end": 5,
+        "sentiment": 1,
+        "context": " beni görünce şaşırdı ve aman hocam diye izharı hayret edince parmağımı dudaklarıma götürerek, güya onu tanımıyormuşum gibi davranıp susmasını işaret ettim."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 66,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 66.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "isimlerini evvelce öğrendiğim, İskender ve Ahmed beyleri, basılacak gazeteyi kurije ederek dem çeker buldum.",
+      "entities": [
+      {
+        "target": "İskender",
+        "author_related": true,
+        "start": 31,
+        "end": 39,
+        "sentiment": 1,
+        "context": " ve Ahmed beyleri, basılacak gazeteyi kurije ederek dem çeker buldum."
+      },
+      {
+        "target": "Ahmed bey",
+        "author_related": true,
+        "start": 43,
+        "end": 52,
+        "sentiment": 1,
+        "context": "leri, basılacak gazeteyi kurije ederek dem çeker buldum."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 66,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 66.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Çıktım, Ragıba da arkam sıra gelmesini işaret ettim.",
+      "entities": [
+      {
+        "target": "Ragıb",
+        "author_related": true,
+        "start": 8,
+        "end": 13,
+        "sentiment": 1,
+        "context": "a da arkam sıra gelmesini işaret ettim."
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 66,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 66.",
+      "notes": "Türkçe"
+    }
+  },
+  {
+    "text": "Ertesi günü bu efendilere kim olduğumu ve İskender beyle hususi konuşmak istediğimi söyledim. Ahmed beyin de bulunması teklifi üzerine kendilerine meseleyi açtım ve onları da böyle milli bir cemiyete girmeğe ikna ettim. Kabul ettiler,",
+      "entities": [
+      {
+        "target": "İskender bey",
+        "author_related": true,
+        "start": 42,
+        "end": 54,
+        "sentiment": 1,
+        "context": "le hususi konuşmak istediğimi söyledim. Ahmed beyin de bulunması teklifi üzerine kendilerine meseleyi açtım ve onları da böyle milli bir cemiyete girmeğe ikna ettim. Kabul ettiler,"
+      },
+      {
+        "target": "Ahmed bey",
+        "author_related": true,
+        "start": 94,
+        "end": 103,
+        "sentiment": 1,
+        "context": "in de bulunması teklifi üzerine kendilerine meseleyi açtım ve onları da böyle milli bir cemiyete girmeğe ikna ettim. Kabul ettiler,"
+      }
+    ],
+    "metadata": {
+      "source": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "author": "İbrahim Temo",
+      "title": "İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım",
+      "year": 1939,
+      "page": 66,
+      "publisher": "Yayınevi Belirtilmemiş",
+      "location": "Mecidiye, Romanya",
+      "url": "https://kutuphane.ttk.gov.tr/details?id=429153&materialType=KT&query=ibrahim+temo",
+      "citation": "İbrahim Temo, İttihad ve Terakki Cemiyetinin Teşekkülü ve Hidematı Vataniye ve İnkılâbı Milliye Dair Hatıratım, Mecidiye, Romanya, 1939, s. 66.",
+      "notes": "Türkçe"
+    }
+  }
+]
