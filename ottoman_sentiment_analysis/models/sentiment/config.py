@@ -29,6 +29,7 @@ SENTIMENT_CONFIG = {
     "warmup_ratio": 0.1,
     "weight_decay": 0.01,
     "fp16": True,
+    "gradient_accumulation_steps": 4,  # Effective batch size: 16*4=64
     
     # Advanced features
     "use_r_drop": True,
@@ -45,8 +46,10 @@ SENTIMENT_CONFIG = {
     "label_smoothing": 0.1,
     
     # Evaluation
-    "evaluation_strategy": "epoch",
-    "save_strategy": "epoch",
+    "evaluation_strategy": "steps",
+    "eval_steps": 100,  # Evaluate every 100 steps
+    "save_strategy": "steps",
+    "save_steps": 200,  # Save every 200 steps
     "load_best_model_at_end": True,
     "metric_for_best_model": "f1",
     "greater_is_better": True,
