@@ -1,4 +1,5 @@
-# Ottoman Sentiment Analysis Framework
+# Ottoman Sentiment Analysis Framework 
+by The OSPA Project
 
 ![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8+-green)
@@ -21,6 +22,15 @@ A comprehensive NLP framework for analyzing Late Ottoman Turkish memoirs (1900-1
 - [Citation](#citation)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+
+## Testing
+
+For detailed testing instructions, see [TEST_INSTRUCTIONS.md](TEST_INSTRUCTIONS.md).
+
+**Quick Test:**
+```bash
+python examples/test.py
+```
 
 ## Overview
 
@@ -311,7 +321,7 @@ This work is supported by:
 
 - **İzmir Institute of Technology (İYTE)** - Digital Humanities and AI Laboratory
 - **Pamukkale University** - Department of History
-- **TÜBİTAK** - The Scientific and Technological Research Council of Türkiye
+- **TÜBİTAK** - The Scientific and Technological Research Council of Turkey
 
 ## Project Structure
 
@@ -325,9 +335,13 @@ Ottoman-Sentiment-Analysis-Framework/
 │   ├── utils/            # Utilities and helpers
 │   ├── datasets/         # Dataset handlers
 │   └── __init__.py
+├── examples/
+│   ├── test.py           # Evaluation script (NER → CISA pipeline)
+│   └── full_pipeline_test.py  # Complete pipeline test
 ├── requirements.txt      # Dependencies
 ├── setup.py              # Package setup
 ├── README.md             # This file
+├── TEST_INSTRUCTIONS.md  # Testing guide
 └── CITATION.bib          # Citation information
 ```
 
@@ -339,3 +353,7 @@ For questions, issues, or contributions:
 - **Email**: mustafailter@iyte.edu.tr
 
 ---
+
+**Made with ❤️ for Digital Humanities Research**
+
+*Analyzing the past with modern AI*
