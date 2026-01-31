@@ -59,6 +59,7 @@ NER_CONFIG = {
     
     # Data split
     "test_size": 0.2,
+    "validation_size": 0.1,  # For train/val/test split
     "stratify": True,
 }
 
