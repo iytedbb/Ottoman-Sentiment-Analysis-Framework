@@ -41,18 +41,11 @@ class CISAPredictor:
         # Load tokenizer
         self.tokenizer = AutoTokenizer.from_pretrained(model_path)
         
-        # Load model
-        self.model = PositionAwareDualEncoderCISA(
-            model_name=model_path,
+        # Load model from HuggingFace or local path
+        self.model = PositionAwareDualEncoderCISA.from_pretrained(
+            model_path,
             num_sentiment_labels=3
         )
-        
-        # Load state dict
-        state_dict = torch.load(
-            f"{model_path}/pytorch_model.bin",
-            map_location=self.device
-        )
-        self.model.load_state_dict(state_dict)
         
         self.model.to(self.device)
         self.model.eval()
