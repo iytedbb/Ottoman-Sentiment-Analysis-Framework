@@ -207,8 +207,11 @@ def train_sentiment_model(json_file_path, model_name=None, output_dir="./sentime
             learning_rate=SENTIMENT_CONFIG["learning_rate"],
             weight_decay=SENTIMENT_CONFIG["weight_decay"],
             warmup_ratio=SENTIMENT_CONFIG["warmup_ratio"],
+            gradient_accumulation_steps=SENTIMENT_CONFIG["gradient_accumulation_steps"],
             eval_strategy=SENTIMENT_CONFIG["evaluation_strategy"],
+            eval_steps=SENTIMENT_CONFIG.get("eval_steps", 100),
             save_strategy=SENTIMENT_CONFIG["save_strategy"],
+            save_steps=SENTIMENT_CONFIG.get("save_steps", 200),
             load_best_model_at_end=SENTIMENT_CONFIG["load_best_model_at_end"],
             metric_for_best_model=SENTIMENT_CONFIG["metric_for_best_model"],
             greater_is_better=SENTIMENT_CONFIG["greater_is_better"],
@@ -220,6 +223,10 @@ def train_sentiment_model(json_file_path, model_name=None, output_dir="./sentime
         
         # Callbacks
         detailed_callback = DetailedCallback()
+        early_stopping_callback = EarlyStoppingCallback(
+            early_stopping_patience=6,
+            early_stopping_threshold=0.0001
+        )
         
         # Create trainer
         trainer = Trainer(
@@ -229,7 +236,7 @@ def train_sentiment_model(json_file_path, model_name=None, output_dir="./sentime
             eval_dataset=val_dataset,
             compute_metrics=compute_metrics,
             data_collator=data_collator,
-            callbacks=[detailed_callback]
+            callbacks=[detailed_callback, early_stopping_callback]
         )
         
         # Train
