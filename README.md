@@ -311,7 +311,7 @@ This work is supported by:
 
 - **İzmir Institute of Technology (İYTE)** - Digital Humanities and AI Laboratory
 - **Pamukkale University** - Department of History
-- **TÜBİTAK** - The Scientific and Technological Research Council of Turkey
+- **TÜBİTAK** - The Scientific and Technological Research Council of Türkiye
 
 ## Project Structure
 
