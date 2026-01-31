@@ -36,13 +36,6 @@ NER model first finds entities, then CISA performs sentiment analysis.
 python examples/test.py
 ```
 
-### Direct Mode
-Uses ground truth entity positions (skips NER).
-
-```bash
-python examples/test.py --no-ner
-```
-
 ---
 
 ## ⚙️ Command Line Parameters
@@ -55,31 +48,6 @@ python examples/test.py --no-ner
 | `--no-ner` | `False` | Use ground truth entities |
 | `--ner_model` | `dbbiyte/MemoirNER-BERTurk` | NER model path |
 | `--overlap_threshold` | `0.5` | NER matching threshold |
-
----
-
-## 📊 Expected Results
-
-### Pipeline Mode (NER → CISA)
-
-```
-NER Performance:
-  Total GT Entities: 200
-  Found by NER: 170+
-  NER Recall: 0.85+
-
-CISA Sentiment Performance:
-  Accuracy:  0.85+
-  F1-Score:  0.84+
-```
-
-### Direct Mode (Ground Truth → CISA)
-
-```
-CISA Sentiment Performance:
-  Accuracy:  0.87+
-  F1-Score:  0.86+
-```
 
 ---
 
