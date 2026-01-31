@@ -352,8 +352,3 @@ For questions, issues, or contributions:
 - **GitHub Issues**: [github.com/iytedbb/Ottoman-Sentiment-Analysis-Framework/issues](https://github.com/iytedbb/Ottoman-Sentiment-Analysis-Framework/issues)
 - **Email**: mustafailter@iyte.edu.tr
 
----
-
-**Made with ❤️ for Digital Humanities Research**
-
-*Analyzing the past with modern AI*
