@@ -25,7 +25,7 @@ A comprehensive NLP framework for analyzing Late Ottoman Turkish memoirs (1900-1
 
 ## Testing
 
-For detailed testing instructions, see [TEST_INSTRUCTIONS.md](TEST_INSTRUCTIONS.md).
+For detailed testing instructions, see [test_instructions.md](test_instructions.md).
 
 **Quick Test:**
 ```bash
