@@ -3,6 +3,23 @@ Train CISA Model
 ================
 Script to train the Position-Aware Dual-Encoder CISA model.
 
+Expected Data Format (JSON):
+----------------------------
+[
+  {
+    "text": "Full sentence text here...",
+    "entities": [
+      {
+        "target": "Entity Name",
+        "sentiment": 2,         // 0: Negative, 1: Neutral, 2: Positive
+        "author_related": true, // Relation type (true: Direct, false: Indirect)
+        "start": 0,
+        "end": 10
+      }
+    ]
+  }
+]
+
 Usage:
     python scripts/train_cisa.py --data_path data/train.json --epochs 5
 """
