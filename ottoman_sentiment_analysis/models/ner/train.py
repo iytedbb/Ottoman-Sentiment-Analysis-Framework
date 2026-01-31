@@ -365,33 +365,53 @@ def train_ner_model(json_file_path, model_name=None, output_dir="./ner_model"):
         unique_data = list(content_hashes.values())
         logging.info(f"Unique samples: {len(unique_data)}")
         
-        # Split data with stratification
+        # Split data: train/val/test (70%/10%/20%)
         try:
             def get_entity_types(item):
                 entity_types = set(ent[2] for ent in item['entities'])
                 return "_".join(sorted(entity_types)) or "NONE"
             
             stratify_labels = [get_entity_types(item) for item in unique_data]
-            train_data, test_data = train_test_split(
+            
+            # First split: separate test set (20%)
+            train_val_data, test_data = train_test_split(
                 unique_data,
                 test_size=NER_CONFIG["test_size"],
                 random_state=NER_CONFIG["seed"],
                 stratify=stratify_labels
             )
-            logging.info("Stratified split successful")
+            
+            # Second split: separate validation from training (10% of total = 12.5% of train_val)
+            stratify_train_val = [get_entity_types(item) for item in train_val_data]
+            train_data, val_data = train_test_split(
+                train_val_data,
+                test_size=0.125,  # 0.125 * 0.8 = 0.1 of total
+                random_state=NER_CONFIG["seed"],
+                stratify=stratify_train_val
+            )
+            
+            logging.info(f"Stratified split successful: Train={len(train_data)}, Val={len(val_data)}, Test={len(test_data)}")
         except Exception as e:
             logging.warning(f"Stratified split failed: {e}, using simple split")
-            train_data, test_data = train_test_split(
+            # Fallback to simple split
+            train_val_data, test_data = train_test_split(
                 unique_data,
                 test_size=NER_CONFIG["test_size"],
+                random_state=NER_CONFIG["seed"]
+            )
+            train_data, val_data = train_test_split(
+                train_val_data,
+                test_size=0.125,
                 random_state=NER_CONFIG["seed"]
             )
         
         # Verify separation
         check_data_separation(train_data, test_data)
         
-        # Print statistics
+        # Print statistics for all three splits
+        logging.info(f"\nData split sizes: Train={len(train_data)}, Val={len(val_data)}, Test={len(test_data)}")
         print_data_statistics(train_data, test_data)
+        logging.info(f"Validation set: {len(val_data)} samples")
         
         # Calculate class weights
         class_weights = calculate_class_weights(train_data)
@@ -414,7 +434,10 @@ def train_ner_model(json_file_path, model_name=None, output_dir="./ner_model"):
         
         # Create datasets
         train_dataset = NERDataset(train_data, tokenizer, NER_CONFIG["max_length"])
+        val_dataset = NERDataset(val_data, tokenizer, NER_CONFIG["max_length"])
         test_dataset = NERDataset(test_data, tokenizer, NER_CONFIG["max_length"])
+        
+        logging.info(f"Datasets created: Train={len(train_dataset)}, Val={len(val_dataset)}, Test={len(test_dataset)}")
         
         # Training arguments
         training_args = TrainingArguments(
@@ -444,7 +467,7 @@ def train_ner_model(json_file_path, model_name=None, output_dir="./ner_model"):
             model=model,
             args=training_args,
             train_dataset=train_dataset,
-            eval_dataset=test_dataset,
+            eval_dataset=val_dataset,  # Use validation set, not test!
             compute_metrics=compute_metrics,
             class_weights=class_weights_tensor if torch.cuda.is_available() 
                           else class_weights_tensor.cpu(),
