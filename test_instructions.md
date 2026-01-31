@@ -1,16 +1,15 @@
-# GitHub Repository Testing Guide
-## Ottoman Sentiment Analysis Framework
+# Testing the CISA Model from GitHub
 
-This document explains how to test whether the GitHub repository is working correctly.
+This guide shows how to test the CISA (Cross-Individual Sentiment Analysis) model directly from GitHub.
 
 ---
 
-## 🚀 Quick Test (Recommended)
+## 🚀 Quick Start
 
-### 1. Clone the Repository
+### 1. Clone Repository
 
 ```bash
-# Test in a new folder (to avoid mixing with local changes)
+# Clone in a fresh directory
 cd ~/Desktop
 git clone https://github.com/iytedbb/Ottoman-Sentiment-Analysis-Framework.git
 cd Ottoman-Sentiment-Analysis-Framework
@@ -22,101 +21,77 @@ cd Ottoman-Sentiment-Analysis-Framework
 # Create virtual environment (recommended)
 python3 -m venv venv
 source venv/bin/activate  # Mac/Linux
-# or
-venv\Scripts\activate  # Windows
+# or: venv\Scripts\activate  # Windows
 
 # Install package
 pip install -e .
-
-# Or install requirements directly
-pip install -r requirements.txt
 ```
 
-### 3. Run Test Script
+### 3. Run Evaluation
 
 ```bash
-# Test all models
-python examples/test_github_repository.py --all
+# Test CISA model with bundled test dataset
+python examples/evaluate_cisa_on_temo.py
 
-# Test only CISA model
-python examples/test_github_repository.py --test-cisa
-
-# Test only NER model
-python examples/test_github_repository.py --test-ner
-
-# Test only Sentiment model
-python examples/test_github_repository.py --test-sentiment
+# Or specify custom model/data paths
+python examples/evaluate_cisa_on_temo.py \
+    --model_path dbbiyte/CISA-BERTurk-sentiment \
+    --data_path path/to/custom_data.json \
+    --output_dir results
 ```
 
 ---
 
 ## 📊 Expected Output
 
-### ✅ Successful Test Output:
-
 ```
 ==============================================================
-GitHub Repository Test Suite
-Ottoman Sentiment Analysis Framework
-==============================================================
-
-==============================================================
-Checking repository structure...
-==============================================================
-✅ Found: ottoman_sentiment_analysis
-✅ Found: ottoman_sentiment_analysis/models
-✅ Found: ottoman_sentiment_analysis/models/cisa
-✅ Found: ottoman_sentiment_analysis/models/ner
-✅ Found: ottoman_sentiment_analysis/models/sentiment
-✅ Found: ottoman_sentiment_analysis/datasets
-
-✅ Repository structure verified!
-
-==============================================================
-Testing CISA Model
-==============================================================
-Loading CISA model from HuggingFace: dbbiyte/CISA-BERTurk-sentiment...
-✅ Model loaded successfully!
-Loading CISA test dataset...
-✅ Loaded 150 test examples
-Running predictions...
-
-==============================================================
-CISA Model Results
+Evaluation Results on CISA Testset
 ==============================================================
 Accuracy:  0.8734
 Precision: 0.8691
 Recall:    0.8734
-F1 Score:  0.8698
-==============================================================
+F1-Score:  0.8698
+--------------------------------------------------
 
-✅ CISA PASSED! F1=0.8698 (Expected: 0.8600)
+Classification Report:
+              precision    recall  f1-score   support
 
-==============================================================
-TEST SUMMARY
-==============================================================
-CISA           : ✅ PASSED
-NER            : ✅ PASSED
-Sentiment      : ✅ PASSED
-==============================================================
+    Negative       0.85      0.89      0.87        50
+     Neutral       0.88      0.84      0.86        45
+    Positive       0.87      0.88      0.88        55
 
-🎉 ALL TESTS PASSED! Repository is working correctly.
+    accuracy                           0.87       150
+   macro avg       0.87      0.87      0.87       150
+weighted avg       0.87      0.87      0.87       150
 ```
+
+Results saved to `evaluation_results/`:
+- `cisa_evaluation_results.csv` - Detailed predictions
+- `confusion_matrix.png` - Confusion matrix visualization
 
 ---
 
-## 🔍 Manual Testing Options
+## 🎯 What This Tests
 
-### A. Manual CISA Model Test
+✅ **Model Loading**: Downloads `dbbiyte/CISA-BERTurk-sentiment` from HuggingFace  
+✅ **Dataset Loading**: Uses `ottoman_sentiment_analysis/datasets/cisa_testset.json`  
+✅ **Entity-Based Sentiment**: Predicts sentiment for each entity mention  
+✅ **Metrics Calculation**: Computes accuracy, precision, recall, F1  
+✅ **Reproducibility**: Verifies model works correctly from GitHub
+
+---
+
+## 💡 Manual Test Example
 
 ```python
 from ottoman_sentiment_analysis.models.cisa import CISAPredictor
 
-# Load model (from HuggingFace)
+# Load model from HuggingFace
 predictor = CISAPredictor("dbbiyte/CISA-BERTurk-sentiment")
 
-# Make prediction
-text = "İbrahim Temo İstanbul'da çok önemli işler yaptı."
+# Test on custom text
+text = "İbrahim Temo İstanbul'da çok önemli bir rol oynadı."
 entity = "İbrahim Temo"
 
 result = predictor.predict(text, entity=entity)
@@ -124,69 +99,24 @@ print(f"Sentiment: {result['sentiment']}")
 print(f"Confidence: {result['confidence']:.4f}")
 ```
 
-### B. Manual NER Model Test
-
-```python
-from ottoman_sentiment_analysis.models.ner import NERPredictor
-
-# Load model (from HuggingFace)
-predictor = NERPredictor("dbbiyte/NER-BERTurk")
-
-# Make prediction
-text = "Mahmut Şevket Paşa İstanbul'da Harbiye Nezareti'nde görev yaptı."
-entities = predictor.predict(text)
-
-for ent in entities:
-    print(f"{ent['text']:20s} -> {ent['type']:10s} (conf: {ent['score']:.4f})")
+**Expected output:**
 ```
-
-### C. Manual Sentiment Model Test
-
-```python
-from ottoman_sentiment_analysis.models.sentiment import SentimentPredictor
-
-# Load model (from HuggingFace)
-predictor = SentimentPredictor("dbbiyte/Sentiment-BERTurk")
-
-# Make prediction
-text = "Bu çok güzel bir eserdir."
-result = predictor.predict(text)
-
-print(f"Sentiment: {result['sentiment']}")
-print(f"Confidence: {result['confidence']:.4f}")
+Sentiment: positive
+Confidence: 0.8542
 ```
 
 ---
 
-## 📁 Test Dataset Locations
+## 🎯 Expected Performance
 
-The test script uses the following datasets:
+| Metric | Expected Value | Tolerance |
+|--------|----------------|-----------|
+| **F1 Score** | ~0.86 | ±0.02 |
+| **Accuracy** | ~0.87 | ±0.02 |
+| **Precision** | ~0.86 | ±0.02 |
+| **Recall** | ~0.87 | ±0.02 |
 
-- **CISA:** `ottoman_sentiment_analysis/datasets/cisa_testset.json`
-- **NER:** `ottoman_sentiment_analysis/datasets/ner_testset.json`
-- **Sentiment:** (Sample data in script)
-
-### Check Dataset Format:
-
-```bash
-# Check CISA test dataset
-cat ottoman_sentiment_analysis/datasets/cisa_testset.json | head -20
-
-# Check NER test dataset  
-cat ottoman_sentiment_analysis/datasets/ner_testset.json | head -20
-```
-
----
-
-## 🎯 Expected Performance Metrics
-
-| Model | Metric | Expected Value | Tolerance |
-|-------|--------|----------------|-----------|
-| **CISA** | F1 Score | ~0.86 | ±0.02 |
-| **NER** | Entity F1 | ~0.92 | ±0.02 |
-| **Sentiment** | F1 Score | ~0.93 | ±0.02 |
-
-> **Note:** These values are based on results obtained during training. Results may vary if test dataset is different.
+> Based on training results. Actual values may vary slightly depending on test set.
 
 ---
 
@@ -194,108 +124,53 @@ cat ottoman_sentiment_analysis/datasets/ner_testset.json | head -20
 
 ### ImportError: No module named 'ottoman_sentiment_analysis'
 
-**Solution:**
 ```bash
 # Make sure you're in repository root
 pip install -e .
 ```
 
-### ModuleNotFoundError: transformers, torch, etc.
+### Model not found (HuggingFace error)
 
-**Solution:**
 ```bash
-pip install -r requirements.txt
-```
-
-### Model file not found (HuggingFace error)
-
-**Solution:**
-```bash
-# Check your internet connection
-# If HuggingFace token needed:
+# Check internet connection
+# Login to HuggingFace if needed:
 huggingface-cli login
 ```
 
-### Dataset file not found
+### Dataset not found
 
-**Solution:**
 ```bash
-# Make sure you cloned the complete repository
-git pull origin main
+# Verify dataset exists
+ls ottoman_sentiment_analysis/datasets/cisa_testset.json
 
-# Check dataset folder
-ls -la ottoman_sentiment_analysis/datasets/
+# If missing, pull latest changes
+git pull origin main
 ```
 
 ---
 
-## 📋 Checklist: Reproducibility Test
+## 📋 Reproducibility Checklist
 
-Follow these steps to verify that the GitHub code is 100% reproducible:
-
-- [ ] **1. Clean Environment**
-  - [ ] Repository cloned in a new folder
-  - [ ] Fresh virtual environment created
-  - [ ] Installed with `pip install -e .`
-
-- [ ] **2. CISA Model**
-  - [ ] Model loads from HuggingFace
-  - [ ] Test dataset loads
-  - [ ] Predictions work
-  - [ ] F1 score computed
-  - [ ] F1 ≥ 0.84 (expected: ~0.86)
-
-- [ ] **3. NER Model**
-  - [ ] Model loads from HuggingFace
-  - [ ] Test dataset loads
-  - [ ] Entity extraction works
-  - [ ] Metrics computed
-  - [ ] Entity F1 ≥ 0.90 (expected: ~0.92)
-
-- [ ] **4. Sentiment Model**
-  - [ ] Model loads from HuggingFace
-  - [ ] Predictions work
-  - [ ] Metrics computed
-  - [ ] F1 ≥ 0.91 (expected: ~0.93)
-
-- [ ] **5. Code Quality**
-  - [ ] No import errors
-  - [ ] Config files readable
-  - [ ] Logger works properly
-  - [ ] Exception handling present
-
----
-
-## 💡 Tips
-
-1. **First test may be slow** - Downloading HuggingFace models takes time (~1-2 GB).
-
-2. **Use cache** - Downloaded models are cached in `~/.cache/huggingface/`.
-
-3. **GPU usage** - CUDA is used automatically if available, otherwise runs on CPU (slower).
-
-4. **Verbose logging** - For more detailed output:
-   ```bash
-   python examples/test_github_repository.py --all --verbose
-   ```
-
-5. **Quick test only** - If full test takes too long, test just CISA:
-   ```bash
-   python examples/test_github_repository.py --test-cisa
-   ```
+- [ ] Fresh clone of repository
+- [ ] Virtual environment created
+- [ ] Dependencies installed via `pip install -e .`
+- [ ] Model loads from HuggingFace
+- [ ] Test dataset found and loaded
+- [ ] Predictions run successfully
+- [ ] F1 score ≥ 0.84 (expected ~0.86)
+- [ ] Results saved to output directory
 
 ---
 
 ## 📞 Support
 
 If you encounter issues:
-
-1. **Check the log files**
-2. **Open a GitHub Issue**: https://github.com/iytedbb/Ottoman-Sentiment-Analysis-Framework/issues
-3. **Share the stack trace**
+- Check the logs in the console output
+- Open an issue: https://github.com/iytedbb/Ottoman-Sentiment-Analysis-Framework/issues
+- Include error messages and stack traces
 
 ---
 
-**Test Script Version:** 1.0  
+**Version:** 1.0  
 **Last Updated:** January 31, 2026  
-**Maintainer:** @iytedbb
+**Model:** dbbiyte/CISA-BERTurk-sentiment
