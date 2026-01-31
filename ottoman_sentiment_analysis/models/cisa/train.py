@@ -19,7 +19,8 @@ from transformers import (
     AutoTokenizer,
     TrainingArguments,
     Trainer,
-    TrainerCallback
+    TrainerCallback,
+    EarlyStoppingCallback
 )
 from datasets import Dataset
 
@@ -137,25 +138,52 @@ def prepare_cisa_dataset(data, tokenizer, max_length=256):
 
 
 def compute_cisa_metrics(pred):
-    """Calculate CISA evaluation metrics."""
-    # Predictions are tuple: (sentiment_logits, relation_logits)
+    """Calculate CISA evaluation metrics for both sentiment and relation tasks."""
+    # Unpack predictions (tuple of sentiment_logits, relation_logits)
     sentiment_logits = pred.predictions[0] if isinstance(pred.predictions, tuple) else pred.predictions
-    labels = pred.label_ids
+    relation_logits = pred.predictions[1] if isinstance(pred.predictions, tuple) else None
     
+    # Unpack labels (tuple of sentiment_labels, relation_labels)
+    sentiment_labels = pred.label_ids[0] if isinstance(pred.label_ids, tuple) else pred.label_ids
+    relation_labels = pred.label_ids[1] if isinstance(pred.label_ids, tuple) else None
+    
+    # Sentiment predictions and metrics
     sentiment_preds = np.argmax(sentiment_logits, axis=1)
+    sentiment_acc = accuracy_score(sentiment_labels, sentiment_preds)
+    s_prec, s_rec, s_f1, _ = precision_recall_fscore_support(
+        sentiment_labels, sentiment_preds, average='weighted'
+    )
     
-    accuracy = accuracy_score(labels, sentiment_preds)
-    precision, recall, f1, _ = precision_recall_fscore_support(labels, sentiment_preds, average='weighted')
+    sentiment_cm = confusion_matrix(sentiment_labels, sentiment_preds)
     
-    cm = confusion_matrix(labels, sentiment_preds)
-    
-    return {
-        'accuracy': float(accuracy),
-        'precision': float(precision),
-        'recall': float(recall),
-        'f1': float(f1),
-        'confusion_matrix': cm.tolist()
+    metrics = {
+        'sentiment_accuracy': float(sentiment_acc),
+        'sentiment_precision': float(s_prec),
+        'sentiment_recall': float(s_rec),
+        'sentiment_f1': float(s_f1),
+        'sentiment_confusion_matrix': sentiment_cm.tolist()
     }
+    
+    # Relation predictions and metrics (if available)
+    if relation_logits is not None and relation_labels is not None:
+        relation_preds = np.argmax(relation_logits, axis=1)
+        relation_acc = accuracy_score(relation_labels, relation_preds)
+        r_prec, r_rec, r_f1, _ = precision_recall_fscore_support(
+            relation_labels, relation_preds, average='binary'
+        )
+        
+        relation_cm = confusion_matrix(relation_labels, relation_preds)
+        
+        metrics.update({
+            'relation_accuracy': float(relation_acc),
+            'relation_precision': float(r_prec),
+            'relation_recall': float(r_rec),
+            'relation_f1': float(r_f1),
+            'relation_confusion_matrix': relation_cm.tolist(),
+            'combined_f1': float((s_f1 + r_f1) / 2)
+        })
+    
+    return metrics
 
 
 def train_cisa_model(json_file_path, model_name=None, output_dir="./cisa_model"):
@@ -192,12 +220,15 @@ def train_cisa_model(json_file_path, model_name=None, output_dir="./cisa_model")
         
         logging.info(f"Total samples: {len(raw_data)}")
         
-        # Split data
-        train_data, test_data = train_test_split(
+        # Split data: train/val/test (70%/10%/20%)
+        train_val_data, test_data = train_test_split(
             raw_data, test_size=0.2, random_state=42
         )
+        train_data, val_data = train_test_split(
+            train_val_data, test_size=0.125, random_state=42  # 0.125 * 0.8 = 0.1
+        )
         
-        logging.info(f"Train: {len(train_data)}, Test: {len(test_data)}")
+        logging.info(f"Train: {len(train_data)}, Val: {len(val_data)}, Test: {len(test_data)}")
         
         # Save test set
         with open(os.path.join(experiment_dir, 'test_data.json'), 'w', encoding='utf-8') as f:
@@ -209,9 +240,10 @@ def train_cisa_model(json_file_path, model_name=None, output_dir="./cisa_model")
         
         # Prepare datasets
         train_examples = prepare_cisa_dataset(train_data, tokenizer, CISA_CONFIG["max_length"])
+        val_examples = prepare_cisa_dataset(val_data, tokenizer, CISA_CONFIG["max_length"])
         test_examples = prepare_cisa_dataset(test_data, tokenizer, CISA_CONFIG["max_length"])
         
-        logging.info(f"Processed examples - Train: {len(train_examples)}, Test: {len(test_examples)}")
+        logging.info(f"Processed examples - Train: {len(train_examples)}, Val: {len(val_examples)}, Test: {len(test_examples)}")
         
         # Initialize model
         logging.info("Initializing DECA-CISA model...")
@@ -256,8 +288,15 @@ def train_cisa_model(json_file_path, model_name=None, output_dir="./cisa_model")
             model=model,
             args=training_args,
             train_dataset=train_examples,
-            eval_dataset=test_examples,
+            eval_dataset=val_examples,  # Use validation set, not test!
             data_collator=data_collator,
+            compute_metrics=compute_cisa_metrics,  # Add metrics computation
+            callbacks=[
+                EarlyStoppingCallback(
+                    early_stopping_patience=10,
+                    early_stopping_threshold=0.0001
+                )
+            ]
         )
         
         # Train
