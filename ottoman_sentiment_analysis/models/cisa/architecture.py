@@ -458,7 +458,7 @@ class PositionAwareDualEncoderCISA(nn.Module):
             dropout=dropout_rate
         )
         
-        self.turkish_linguistic = TurkishLinguistic Features(hidden_size)
+        self.turkish_linguistic = TurkishLinguisticFeatures(hidden_size)
         self.contextual_encoder = ContextualSentimentEncoder(hidden_size)
         
         # Position embeddings
