@@ -7,11 +7,11 @@ Expected Data Format (JSON):
 ----------------------------
 [
   {
-    "text": "Bu mekan çok güzel.",
+    "text": "Sözleri beni pek bahtiyar kılmıştı.",
     "label": 2  // 0: Negative, 1: Neutral, 2: Positive
   },
   {
-    "text": "Hiç beğenmedim.",
+    "text": "Bu nahoş hadisatın telafisi hiç de mümkün değildi.",
     "label": 0
   }
 ]
