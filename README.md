@@ -339,7 +339,3 @@ For questions, issues, or contributions:
 - **Email**: mustafailter@iyte.edu.tr
 
 ---
-
-**Made with ❤️ for Digital Humanities Research**
-
-*Analyzing the past with modern AI*
