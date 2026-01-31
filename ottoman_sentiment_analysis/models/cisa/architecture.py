@@ -23,6 +23,34 @@ import torch.nn.functional as F
 from transformers import AutoModel
 
 
+class R_Drop(nn.Module):
+    """
+    R-Drop: Regularized Dropout for consistency.
+    
+    Reference: https://arxiv.org/abs/2106.14448
+    """
+    
+    def __init__(self, alpha=0.3):
+        super(R_Drop, self).__init__()
+        self.alpha = alpha
+        
+    def forward(self, logits1, logits2):
+        p_loss = F.kl_div(
+            F.log_softmax(logits1, dim=-1),
+            F.softmax(logits2, dim=-1),
+            reduction='none'
+        ).sum(-1)
+        
+        q_loss = F.kl_div(
+            F.log_softmax(logits2, dim=-1),
+            F.softmax(logits1, dim=-1),
+            reduction='none'
+        ).sum(-1)
+        
+        loss = (p_loss + q_loss) / 2
+        return self.alpha * loss.mean()
+
+
 class AdaptiveFocalLoss(nn.Module):
     """
     Adaptive Focal Loss with difficulty weighting for historical Turkish CISA.
