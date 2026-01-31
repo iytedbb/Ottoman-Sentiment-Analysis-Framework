@@ -50,26 +50,35 @@ class CISAPredictor:
         # Download and load weights from HuggingFace Hub if needed
         try:
             from huggingface_hub import hf_hub_download
-            from safetensors.torch import load_file
             import os
             
             # Check if it's a HuggingFace model ID or local path
             if not os.path.exists(model_path):
-                # Download from Hub
-                model_file = hf_hub_download(
-                    repo_id=model_path,
-                    filename="model.safetensors"
-                )
-                state_dict = load_file(model_file)
-            else:
-                # Load from local path
-                model_file = os.path.join(model_path, "model.safetensors")
-                if os.path.exists(model_file):
-                    state_dict = load_file(model_file)
-                else:
-                    # Fallback to pytorch_model.bin
-                    model_file = os.path.join(model_path, "pytorch_model.bin")
+                # Try pytorch_model.bin first (primary format on Hub)
+                try:
+                    model_file = hf_hub_download(
+                        repo_id=model_path,
+                        filename="pytorch_model.bin"
+                    )
                     state_dict = torch.load(model_file, map_location=self.device)
+                except:
+                    # Fallback to safetensors
+                    from safetensors.torch import load_file
+                    model_file = hf_hub_download(
+                        repo_id=model_path,
+                        filename="model.safetensors"
+                    )
+                    state_dict = load_file(model_file)
+            else:
+                # Load from local path - try pytorch_model.bin first
+                model_file = os.path.join(model_path, "pytorch_model.bin")
+                if os.path.exists(model_file):
+                    state_dict = torch.load(model_file, map_location=self.device)
+                else:
+                    # Fallback to safetensors
+                    from safetensors.torch import load_file
+                    model_file = os.path.join(model_path, "model.safetensors")
+                    state_dict = load_file(model_file)
             
             self.model.load_state_dict(state_dict)
         except Exception as e:
