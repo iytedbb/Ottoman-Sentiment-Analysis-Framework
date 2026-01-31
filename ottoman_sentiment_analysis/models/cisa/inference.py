@@ -105,9 +105,10 @@ class CISAPredictor:
         """
         # Find entity position if not provided
         if entity_start is None or entity_end is None:
-            entity_start = text.find(entity)
+            # Try case-insensitive search
+            entity_start = text.lower().find(entity.lower())
             if entity_start == -1:
-                raise ValueError(f"Entity '{entity}' not found in text")
+                raise ValueError(f"Entity '{entity}' not found in text: '{text[:100]}...'")
             entity_end = entity_start + len(entity)
         
         # Tokenize text
