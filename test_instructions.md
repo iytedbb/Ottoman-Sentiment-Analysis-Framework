@@ -1,176 +1,171 @@
-# Testing the CISA Model from GitHub
+# Ottoman Sentiment Analysis Framework - Test Instructions
 
-This guide shows how to test the CISA (Cross-Individual Sentiment Analysis) model directly from GitHub.
-
----
+This document provides step-by-step instructions for testing the CISA (Cross-Individual Sentiment Analysis) model.
 
 ## 🚀 Quick Start
 
-### 1. Clone Repository
+### 1. Clone the Repository
 
 ```bash
-# Clone in a fresh directory
-cd ~/Desktop
-git clone https://github.com/iytedbb/Ottoman-Sentiment-Analysis-Framework.git
+git clone https://github.com/dbbiyte/Ottoman-Sentiment-Analysis-Framework.git
 cd Ottoman-Sentiment-Analysis-Framework
 ```
 
-### 2. Install Dependencies
+### 2. Install Requirements
 
 ```bash
-# Create virtual environment (recommended)
-python3 -m venv venv
-source venv/bin/activate  # Mac/Linux
-# or: venv\Scripts\activate  # Windows
-
-# Install package
-pip install -e .
+pip install -r requirements.txt
 ```
 
-### 3. Run Evaluation
+### 3. Run the Test
 
 ```bash
-# Test CISA model with bundled test dataset
-python examples/evaluate_cisa_on_temo.py
-
-# Or specify custom model/data paths
-python examples/evaluate_cisa_on_temo.py \
-    --model_path dbbiyte/CISA-BERTurk-sentiment \
-    --data_path path/to/custom_data.json \
-    --output_dir results
+python examples/test.py
 ```
 
 ---
 
-## 📊 Expected Output
+## 📋 Test Modes
 
-```
-==============================================================
-Evaluation Results on CISA Testset
-==============================================================
-Accuracy:  0.8734
-Precision: 0.8691
-Recall:    0.8734
-F1-Score:  0.8698
---------------------------------------------------
+The script can run in two different modes:
 
-Classification Report:
-              precision    recall  f1-score   support
+### Pipeline Mode (Default)
+NER model first finds entities, then CISA performs sentiment analysis.
 
-    Negative       0.85      0.89      0.87        50
-     Neutral       0.88      0.84      0.86        45
-    Positive       0.87      0.88      0.88        55
-
-    accuracy                           0.87       150
-   macro avg       0.87      0.87      0.87       150
-weighted avg       0.87      0.87      0.87       150
+```bash
+python examples/test.py
 ```
 
-Results saved to `evaluation_results/`:
-- `cisa_evaluation_results.csv` - Detailed predictions
-- `confusion_matrix.png` - Confusion matrix visualization
+### Direct Mode
+Uses ground truth entity positions (skips NER).
+
+```bash
+python examples/test.py --no-ner
+```
 
 ---
 
-## 🎯 What This Tests
+## ⚙️ Command Line Parameters
 
-✅ **Model Loading**: Downloads `dbbiyte/CISA-BERTurk-sentiment` from HuggingFace  
-✅ **Dataset Loading**: Uses `ottoman_sentiment_analysis/datasets/cisa_testset.json`  
-✅ **Entity-Based Sentiment**: Predicts sentiment for each entity mention  
-✅ **Metrics Calculation**: Computes accuracy, precision, recall, F1  
-✅ **Reproducibility**: Verifies model works correctly from GitHub
+| Parameter | Default | Description |
+|-----------|---------|-------------|
+| `--model_path` | `dbbiyte/CISA-BERTurk-sentiment` | CISA model path or HuggingFace repo |
+| `--data_path` | `None` (bundled dataset) | Custom JSON dataset path |
+| `--output_dir` | `evaluation_results` | Directory to save results |
+| `--no-ner` | `False` | Use ground truth entities |
+| `--ner_model` | `dbbiyte/MemoirNER-BERTurk` | NER model path |
+| `--overlap_threshold` | `0.5` | NER matching threshold |
 
 ---
 
-## 💡 Manual Test Example
+## 📊 Expected Results
+
+### Pipeline Mode (NER → CISA)
+
+```
+NER Performance:
+  Total GT Entities: 200
+  Found by NER: 170+
+  NER Recall: 0.85+
+
+CISA Sentiment Performance:
+  Accuracy:  0.85+
+  F1-Score:  0.84+
+```
+
+### Direct Mode (Ground Truth → CISA)
+
+```
+CISA Sentiment Performance:
+  Accuracy:  0.87+
+  F1-Score:  0.86+
+```
+
+---
+
+## 📁 Output Files
+
+After test completion, in `evaluation_results/` folder:
+
+- `cisa_evaluation_results_pipeline.csv` - Detailed prediction results
+- `confusion_matrix_pipeline.png` - Confusion matrix visualization
+- `missed_entities_by_ner.csv` - Entities missed by NER (pipeline mode only)
+
+---
+
+## 🔧 Testing with Custom Dataset
+
+To use your own JSON dataset:
+
+```bash
+python examples/test.py --data_path path/to/your/dataset.json
+```
+
+### JSON Format
+
+```json
+[
+  {
+    "text": "Ali Bey'in vefatı bizleri hüzne boğmuştu.",
+    "entities": [
+      {
+        "target": "Ali Bey",
+        "start": 0,
+        "end": 7,
+        "sentiment": 2
+      }
+    ]
+  }
+]
+```
+
+**Sentiment Labels:**
+- `0` = Negative
+- `1` = Neutral
+- `2` = Positive
+
+---
+
+## 🐍 Python Usage
 
 ```python
 from ottoman_sentiment_analysis.models.cisa import CISAPredictor
 
-# Load model from HuggingFace
+# Load model
 predictor = CISAPredictor("dbbiyte/CISA-BERTurk-sentiment")
 
-# Test on custom text
-text = "İbrahim Temo İstanbul'da çok önemli bir rol oynadı."
-entity = "İbrahim Temo"
+# Make prediction
+text = "Ali Bey'in vefatı bizleri hüzne boğmuştu. O büyük bir devlet adamıydı."
+entity = "Ali Bey"
 
-result = predictor.predict(text, entity=entity)
-print(f"Sentiment: {result['sentiment']}")
-print(f"Confidence: {result['confidence']:.4f}")
-```
-
-**Expected output:**
-```
-Sentiment: positive
-Confidence: 0.8542
+result = predictor.predict(text, entity)
+print(result)
+# {'sentiment': 'positive', 'label': 2, 'confidence': 0.89, 'relation': 1, ...}
 ```
 
 ---
 
-## 🎯 Expected Performance
+## 📝 Notes
 
-| Metric | Expected Value | Tolerance |
-|--------|----------------|-----------|
-| **F1 Score** | ~0.86 | ±0.02 |
-| **Accuracy** | ~0.87 | ±0.02 |
-| **Precision** | ~0.86 | ±0.02 |
-| **Recall** | ~0.87 | ±0.02 |
-
-> Based on training results. Actual values may vary slightly depending on test set.
+- On first run, models will be downloaded from HuggingFace (~500MB)
+- GPU is automatically used if available (CUDA)
+- Test dataset is from Ibrahim Temo's memoir
 
 ---
 
-## 🐛 Troubleshooting
+## 🆘 Troubleshooting
 
-### ImportError: No module named 'ottoman_sentiment_analysis'
-
+### "Model not found" error
 ```bash
-# Make sure you're in repository root
-pip install -e .
-```
-
-### Model not found (HuggingFace error)
-
-```bash
-# Check internet connection
-# Login to HuggingFace if needed:
 huggingface-cli login
 ```
 
-### Dataset not found
-
+### CUDA out of memory
 ```bash
-# Verify dataset exists
-ls ottoman_sentiment_analysis/datasets/cisa_testset.json
-
-# If missing, pull latest changes
-git pull origin main
+python examples/test.py --no-ner  # Use CISA only
 ```
 
----
-
-## 📋 Reproducibility Checklist
-
-- [ ] Fresh clone of repository
-- [ ] Virtual environment created
-- [ ] Dependencies installed via `pip install -e .`
-- [ ] Model loads from HuggingFace
-- [ ] Test dataset found and loaded
-- [ ] Predictions run successfully
-- [ ] F1 score ≥ 0.84 (expected ~0.86)
-- [ ] Results saved to output directory
-
----
-
-## 📞 Support
-
-If you encounter issues:
-- Check the logs in the console output
-- Open an issue: https://github.com/iytedbb/Ottoman-Sentiment-Analysis-Framework/issues
-- Include error messages and stack traces
-
----
-
-**Version:** 1.0  
-**Last Updated:** January 31, 2026  
-**Model:** dbbiyte/CISA-BERTurk-sentiment
+### Import error
+```bash
+pip install -e .  # Install package in development mode
+```
