@@ -34,12 +34,12 @@ CISA_CONFIG = {
     "attention_dropout": 0.1,
     
     # Training parameters
-    "learning_rate": 2e-5,
-    "num_train_epochs": 10,
-    "per_device_train_batch_size": 8,
+    "learning_rate": 1e-5,
+    "num_train_epochs": 12,
+    "per_device_train_batch_size": 10,
     "per_device_eval_batch_size": 16,
-    "warmup_ratio": 0.1,
-    "weight_decay": 0.01,
+    "warmup_ratio": 0.15,
+    "weight_decay": 0.02,
     "fp16": True,
     "gradient_accumulation_steps": 4,
     
@@ -61,8 +61,10 @@ CISA_CONFIG = {
     "augmentation_probability": 0.3,
     
     # Evaluation
-    "evaluation_strategy": "epoch",
-    "save_strategy": "epoch",
+    "evaluation_strategy": "steps",
+    "eval_steps": 100,
+    "save_strategy": "steps",
+    "save_steps": 100,
     "load_best_model_at_end": True,
     "metric_for_best_model": "f1",
     "greater_is_better": True,
