@@ -317,12 +317,6 @@ This work is supported by:
 - İbrahim BERCİ - Pamukkale University
 - Emre ONUÇ - Pamukkale University
 
-### Institutions
-
-- **İzmir Institute of Technology (İYTE)** - Digital Humanities and AI Laboratory
-- **Pamukkale University** - Department of History
-- **TÜBİTAK** - The Scientific and Technological Research Council of Turkey
-
 ## Project Structure
 
 ```
