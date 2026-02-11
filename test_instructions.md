@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ### 3. Run the Test
 
 ```bash
-python examples/test.py
+python examples/evaluate_cisa_on_temo.py
 ```
 
 ---
@@ -33,7 +33,7 @@ The script can run in two different modes:
 NER model first finds entities, then CISA performs sentiment analysis.
 
 ```bash
-python examples/test.py
+python examples/evaluate_cisa_on_temo.py
 ```
 
 ---
@@ -66,32 +66,13 @@ After test completion, in `evaluation_results/` folder:
 To use your own JSON dataset:
 
 ```bash
-python examples/test.py --data_path path/to/your/dataset.json
+python examples/evaluate_cisa_on_temo.py --data_path path/to/your/dataset.json
 ```
 
 **Sentiment Labels:**
 - `0` = Negative
 - `1` = Neutral
 - `2` = Positive
-
----
-
-## 🐍 Python Usage
-
-```python
-from ottoman_sentiment_analysis.models.cisa import CISAPredictor
-
-# Load model
-predictor = CISAPredictor("dbbiyte/CISA-BERTurk-sentiment")
-
-# Make prediction
-text = "Ali Bey'in vefatı bizleri elem-i azîme sevk etmişti; kendisi ile senelerce müşterek mesâimiz mevcuttu"
-entity = "Ali Bey"
-
-result = predictor.predict(text, entity)
-print(result)
-# {'sentiment': 'positive', 'label': 2, 'confidence': 0.89, 'relation': 1, ...}
-```
 
 ---
 
@@ -110,10 +91,6 @@ print(result)
 huggingface-cli login
 ```
 
-### CUDA out of memory
-```bash
-python examples/test.py --no-ner  # Use CISA only
-```
 
 ### Import error
 ```bash
