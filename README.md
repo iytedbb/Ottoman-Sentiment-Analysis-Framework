@@ -222,7 +222,7 @@ trainer, tokenizer = train_cisa_model(
 If you use this framework in your research, please cite:
 
 ```bibtex
-@misc{Ottoman-Sentiment-Analysis-Framework-2024,
+@misc{Ottoman-Sentiment-Analysis-Framework-2026,
   title={Ottoman Sentiment Analysis Framework: Tools for Analyzing Late Ottoman Memoirs},
   author={İlter, Mustafa and Onuç, Emre and Evecen, Doğan and Erşahin, Buket and Özcan Gönülal, Yasemin and Karabulut, Sezen and Berci, İbrahim and Tekir, Selma},
   year={2025},
@@ -330,8 +330,7 @@ Ottoman-Sentiment-Analysis-Framework/
 │   ├── datasets/         # Dataset handlers
 │   └── __init__.py
 ├── examples/
-│   ├── test.py           # Evaluation script (NER → CISA pipeline)
-│   └── full_pipeline_test.py  # Complete pipeline test
+│   └── evaluate_cisa_on_temo.py  # Complete pipeline test
 ├── requirements.txt      # Dependencies
 ├── setup.py              # Package setup
 ├── README.md             # This file
