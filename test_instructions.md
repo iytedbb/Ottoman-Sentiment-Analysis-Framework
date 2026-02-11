@@ -85,7 +85,7 @@ from ottoman_sentiment_analysis.models.cisa import CISAPredictor
 predictor = CISAPredictor("dbbiyte/CISA-BERTurk-sentiment")
 
 # Make prediction
-text = "Ali Bey'in vefatı bizleri hüzne boğmuştu. O büyük bir devlet adamıydı."
+text = "Ali Bey'in vefatı bizleri elem-i azîme sevk etmişti; kendisi ile senelerce müşterek mesâimiz mevcuttu"
 entity = "Ali Bey"
 
 result = predictor.predict(text, entity)
