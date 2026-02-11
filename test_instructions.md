@@ -69,24 +69,6 @@ To use your own JSON dataset:
 python examples/test.py --data_path path/to/your/dataset.json
 ```
 
-### JSON Format
-
-```json
-[
-  {
-    "text": "Ali Bey'in vefatı bizleri hüzne boğmuştu.",
-    "entities": [
-      {
-        "target": "Ali Bey",
-        "start": 0,
-        "end": 7,
-        "sentiment": 2
-      }
-    ]
-  }
-]
-```
-
 **Sentiment Labels:**
 - `0` = Negative
 - `1` = Neutral
