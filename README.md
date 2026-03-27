@@ -47,8 +47,8 @@ CISA (Cross-Individual Sentiment Analysis), is a novel task that analyzes the au
 **Example:**
 
 ```
-Text: "Ali Bey'in vefatı bizleri hüzne boğmuştu"
-Translation: "Ali Bey's death deeply saddened us"
+Text: "Ali Bey'in vefatı bizleri hüzne boğmuştu, kendisiyle senelerce müşterek mesaimiz mevcuttu."
+Translation: "Ali Bey's death deeply saddened us..."
 
 Classical Sentiment Analysis → NEGATIVE (sad text)
 CISA for "Ali Bey" → POSITIVE (author's respect and affection for Ali Bey)
@@ -150,7 +150,7 @@ from ottoman_sentiment_analysis.models.cisa import CISAPredictor
 cisa = CISAPredictor("dbbiyte/CISA-BERTurk-sentiment")
 
 # Analyze sentiment toward entity
-text = "Ali Bey'in vefatı bizleri hüzne boğmuştu. O büyük bir devlet adamıydı."
+text = "Ali Bey'in vefatı bizleri hüzne boğmuştu, kendisiyle senelerce süren müşterek mesaimiz vardı."
 entity = "Ali Bey"
 
 result = cisa.predict(text, entity)
